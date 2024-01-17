@@ -74,6 +74,7 @@ body {
   cursor: pointer;
 }
 
+#highscore-btn,
 #highscore-btn {
   display: none;
 }
@@ -103,4 +104,5 @@ body {
   margin: 0;
   border-bottom: 1px solid #99aab5;
   padding: 10px 0;
+  display:none;
 }
