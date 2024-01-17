@@ -96,7 +96,7 @@ document.getElementById("next-btn").addEventListener("click", () => {
   currentQuestion++;
   if (currentQuestion < quizGeo.length) {
     loadQuestion();
-    const progress = (currentQuestion / quizData.length) * 100;
+    const progress = (currentQuestion / quizGeo.length) * 100;
     document.getElementById("progress-bar-fill").style.width = `${progress}%`;
     document.getElementById("progress-bar-text").innerText = `${Math.round(
       progress
