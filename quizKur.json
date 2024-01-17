@@ -1,0 +1,224 @@
+[
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Par ko visi tūristi tiek brīdināti, pirms viņi lido uz Austrāliju?",
+    "options": ["Ņemt līdzi sauļošanas krēmu", "Kukaiņi varētu būt visūr", "Stipru sauli", "Daudz indīgu čūsku un kukaiņu"],
+    "answer": "Daudz indīgu čūsku un kukaiņu"
+  },
+  {
+    "country": "australia",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=uluru.jpeg width=100px height=100px>",
+    "options": ["Koscjuško kalns", "Lielās Ūdensšķirtnes grēdas", "Uluru", "Viktorijas Alpi"],
+    "answer": "Uluru"
+  }, 
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=opera.jpeg width=100px height=100px>",
+    "options": ["Dārlingas osta", "Sidnejas Operas nams", "Sidnejas akvārijs", "Menlijas pludmale"],
+    "answer": "Sidnejas Operas nams"
+  },
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kura pilsēta bija pamatiedzīvotāju mājvieta?",
+    "options": ["Sidneja", "Melburna", "Adelaide", "Brisbena"],
+    "answer": "Brisbena"
+  },
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kāpēc turistus piesaista Lielais Barjerrifs?",
+    "options": ["Lielākais pasaulē", "Visdzīļākais pasaulē", "Lielākais Austrālijā", "Viskrāsainākais pasaulē"],
+    "answer": "Lielākais pasaulē"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Cik bieži lido līdmašīnas no un uz Kokosu salām?",
+    "options": ["Dažas reizes dienā", "Dažas reizes nedēļā", "Dažas reizes mēnesī", "Kokosu salās nav lidostas"],
+    "answer": "Dažas reizes nedēļā"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Ko no suvenīriem var atrast Kokosu salās?",
+    "options": ["Žāvētie kokosrieksti", "Koku amatniecība", "Kokosriekstu amatniecība", "Koraļļu rifi"],
+    "answer": "Kokosriekstu amatniecība"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "No kuras valsts var aizlidot uz Kokosu salām?",
+    "options": ["Austrālija", "Kanāda", "Japāna", "Amerikas Savienotas valstis"],
+    "answer": "Austrālija"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Ko piedava nirējiem ieraudzīt ūdenī pie Kokosu salas nacionāla parka?",
+    "options": ["Nogrimušo kuģi", "Koraļļu rifu", "Jūras dzīvniekus", "Jūras alas"],
+    "answer": "Nogrimušo kuģi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Kurā Kokosu salas salā ekskursijas laikā var redzēt vecus jūras bruņurupučus, sikspārņus, tropiskos putnus un tauriņus?",
+    "options": ["Vestailends", "Galvenā sala", "Ziemeļkīlingu sala", "Prizon sala"],
+    "answer": "Prizon sala"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Uz cik minūšu kāvēšana tiek uzskatīta par normu Dominikānā?",
+    "options": ["15 minūtes", "5 minūte", "30 minūtes", "25 minūtes"],
+    "answer": "15 minūtes"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Kādu dabas resursu var iegūt tikai Dominikānā?",
+    "options": ["Dzintars", "Rozais dimants", "Malka", "Larimar"],
+    "answer": "Larimar"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Kāda pazīstama piekraste atrodas Dominikānā?",
+    "options": ["Piekraste ar melno smilti", "Dzintāru piekraste", "Piekraste ar baltāko smilti pasaulē", "Pērļu piekraste"],
+    "answer": "Dzintāru piekraste"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Cik augsts ir Salto de Aguas Blancas ūdenskritums Dominikānā?",
+    "options": ["190 metri", "45 metri", "220 metri", "83 metri"],
+    "answer": "83 metri"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Cik plats ir Angorvata templis?",
+    "options": ["4km kvadrātā", "1 km kvadrāt", "500m kvadrātā", "2 km kvadrātā"],
+    "answer": "2 km kvadrātā"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kura bija Khmeru impērijas galvaspilsēta?",
+    "options": ["Siemripa", "Taprom", "Angkora", "Baion"],
+    "answer": "Angkora"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=muzejs.jpeg width=150px height=100px>",
+    "options": ["Zelta templis", "Valsts muzejs", "Angorvata templis", "Taprohm templis"],
+    "answer": "Valsts muzejs"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Cik krokodilu dzīvo krokodilu fermā Kambodžā?",
+    "options": ["2000", "500", "3000", "1000"],
+    "answer": "1000"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kur var redzēt retos Irrawaddy delfīnus?",
+    "options": ["Kraite", "Sianukvilla", "Kampots", "Banlung"],
+    "answer": "Kraite"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kāds ir labākais kurorts Kubā?",
+    "options": ["Havanna","Varadero","Santjago de Kuba","Las-Tunas"],
+    "answer": "Varadero"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Ar ko Huvetundas sala piesaista turistus?",
+    "options": ["Tīra jūra","Eksotiskie augļi","Lētas cenas","Melnais smiltis"],
+    "answer": "Melnais smiltis"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kāds neparastais muzejs atrodas Santjago de Kubā?",
+    "options": ["Pirātisma muzejs","Zemūdens muzejs 'Muza'","Nūdeļu muzejs","Šķiršanas muzejs"],
+    "answer": "Pirātisma muzejs"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kura Kubas pilsētā lielākā daļa iedzīvotāju ir franču izcelsmes?",
+    "options": ["Kajokoko","Cienfuegos", "Las-Tunas","Trinidada"],
+    "answer": "Cienfuegos"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=waterfall.jpeg width=100px height=100px>",
+    "options": ["Tad Sae ūdenskritum", "Hanakapiai ūdenskritums", "Plitvices ūdenskritums", "Gulfoss jeb Zelta ūdenskritums"],
+    "answer": "Tad Sae ūdenskritum"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kurā Laosas pilsētā atrodas Budas parks?",
+    "options": ["Vientiane", "Nong Khiaw", "Muang Ngoy", "Lūenphabāna"],
+    "answer": "Vientiane"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=vatpou.jpeg width=150px height=100px>",
+    "options": ["Zelta pilsētas templis", "Vat Pou templis", "Wat Si Saket templis", "Phu si templis"],
+    "answer": "Vat Pou templis"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kur atrodas Vat Pou templis?",
+    "options": ["Vientiane", "Nong Khiaw", "Čampasaka", "Lūenphabāna"], 
+    "answer": "Čampasaka"
+  },
+  { 
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kāds ir Karību baseinas reģiona slavenākais kūrorts?",
+    "options": ["Kankuna","Huaresa","Merida","Akapulko"],
+    "answer": "Kankuna"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kurš Meksikas kūrorts ir kļuvis populārs Holivudas zvaigznes vidū?",
+    "options": ["Merida", "Kankuna","Mehiko","Akapulko"],
+    "answer": "Akapulko"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kuras Meksikas salas krastos atrodas 700km garš rifs?",
+    "options": ["Karību salas","Cozumel", "Kajo-Koko","Kajo-Gilermo"],
+    "answer": "Cozumel"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Ko atvera I. Kusto?",
+    "options": ["Lielo Meksikas koraļu rifu","Melno koraļu rifu","Kankunas pilsētu","Lielo koraļu rifu"],
+    "answer": "Melno koraļu rifu"
+  }
+]

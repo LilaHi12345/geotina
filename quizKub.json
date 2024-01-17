@@ -1,0 +1,240 @@
+[
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas ir Kubas galvaspilsēta?",
+    "options": ["Nuevaherona", "Havanna", "Santjago de Kuba","Las-Tunas"],
+    "answer": "Havanna"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kur atrodas Kuba?",
+    "options": ["Dienvidamerikā","Havaju salās", "Karību salās", "Dienvidāzijā"],
+    "answer": "Karību salās"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kurā laiku joslā atrodas Kuba?",
+    "options": ["GMT -3", "GMT -4", "GMT -5", "GMT -6"],
+    "answer": "GMT -4" 
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas apskalo Kubu dienvidos?",
+    "options": ["Karību jūra", "Atlantijas okeāns","Meksikas līcis", "Kalifornijas līcis"],
+    "answer": "Karību jūra"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas apskalo Kubu ziemeļos?",
+    "options": ["Karību jūra", "Meksikas līcis", "Florīdas līcis", "Klusais okeāns"],
+    "answer": "Florīdas šaurums"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Cik iedzīvotāju ir Kubā?",
+    "options": ["11 miljoni", "20 miljoni", "9 miljoni","15 miljoni"],
+    "answer": "11 miljoni"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Cik procentu no iedzīvotājiem Kubā ir afrikāņi,mulati un metisi?",
+    "options": ["50%", "10%", "60%","30%"],
+    "answer": "30%"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kāda ir Kubas nacionālā valoda?",
+    "options": ["Itāļu valoda", "Spāņu valoda","Franču valoda", "Meksikāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kura reliģija ir visizplatītākā Kubā?",
+    "options": ["Katolicisms", "Islams","Pareizticiība","Budisms"],
+    "answer": "Katolicisms"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kurā vietā Kuba ir pasaulē pēc iedzīvotāju skaita?",
+    "options": ["43.", "51.", "71.", "67."],
+    "answer": "67."
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik palmu sugas ir Kubā?",
+    "options": ["vairāk par 10", "vairāk par 30","vairāk par 50","vairāk par 70"],
+    "answer": "vairāk par 30"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik augu sugas ir sastopamas tikai Kubā?",
+    "options": ["4000", "1000","10000","7500"],
+    "answer": "4000"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik sikspārņu sugas ir Kubā?",
+    "options": ["15", "42", "86","23"],
+    "answer": "23"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik putnu sugas dzīvo Kubas piekrastē?",
+    "options": ["vairāk par 50", "vairāk par 100","vairāk par 300", "vairāk par 500"],
+    "answer": "vairāk par 300"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik sver vismazākais sikspārnis Kubā?",
+    "options": ["3 grami","10 grami", "6 grami", "15 grami"],
+    "answer": "3 grami"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kuru augļi visvairāk mīl Kubā?",
+    "options": ["apelsīni", "kivi", "kokosi", "banāni"],
+    "answer": "banāni"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kā sauc trauku bieza kubiešu zupas formā, kurai pievienoti kukurūza, gaļa, juka, citrons, ķirbis, banāns un mērce?",
+    "options": ["Picadillo", "Ahiaco criollo", "Mango medaljons", "Arroz con polo"],
+    "answer": "Ahiaco criollo"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Ar ko beidzas katra maltīte?",
+    "options": ["Eksotisku desertu","Eksotisku augli","Natilla Cubana", "Rumu"],
+    "answer": "Eksotisku desertu"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kāpēc Kubas iedzīvotāji ēd daudz saldumu?",
+    "options": ["Mitoloģijas dēļ", "Viņi neēd daudz saldumu","Jo mīl saldumus","Lai būtu gudrākiem"],
+    "answer": "Jo mīl saldumus"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kurš dzeriens ir laba dāvana no Kubas?",
+    "options": ["Kubas vīns", "Sula no eksotiskiem augļiem","Kubas kafija","Kubas rums"],
+    "answer": "Kubas rums"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kad svin Kubas neatkārības dienu?",
+    "options": ["10. jūlijā", "10. oktobrī","10. janvārī", "10. aprīlī"],
+    "answer": "10. oktobrī"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kāds augs ir Kubas ģerbonī?",
+    "options": ["Karaliskā palma", "Melnais koks", "Citronu koks", "Sandalkoks"],
+    "answer": "Karaliskā palma"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "No kura gada Santjago de Kubā svin Kubas festivālu?",
+    "options": ["1900.","1825.","1833.","1894."],
+    "answer": "1833."
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kāds ir Kubas nacionālais putns?",
+    "options": ["Karaliskā pīle","Kubas trogons","Kanādas dzērve","Sarkanais flamingo"],
+    "answer": "Kubas trogons"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Ko svin 4. februārī Kubā?",
+    "options": ["Greipfrūtu savākšanas svētki","Gaismas festivāls", "Nacionālā sacelšanās diena", "Starptautiskais Kubas cigāru festivāls"],
+    "answer": "Greipfrūtu savākšanas svētki"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kāda ir vidēja temperatūrā Kubā?",
+    "options": ["26-29","28-30","23-26","24-28"],
+    "answer": "23-26"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kādā klimatu joslā atrodas Kuba?",
+    "options": ["Subtropu","Tropu", "Mērenais","Subekvatoriālais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kad ir sausā sezons Kubā?",
+    "options": ["Maijs-Septembris","Oktobris-Marts","Novembris-Maijs","Septembris-Aprīlis"],
+    "answer": "Septembris-Aprīlis"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kad ir lietus sezona Kubā?",
+    "options": ["Maijs-Septembris","Oktobris-Marts","Novembris-Maijs","Septembris-Aprīlis"],
+    "answer": "Maijs-Septembris"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kas aizņem lielāko daļu no Kubas teritorijas?",
+    "options": ["Ezeri", "Meži","Līdzenumi","Augstienes"],
+    "answer": "Līdzenumi"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kāds ir labākais kurorts Kubā?",
+    "options": ["Havanna","Varadero","Santjago de Kuba","Las-Tunas"],
+    "answer": "Varadero"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Ar ko Huvetundas sala piesaista turistus?",
+    "options": ["Tīra jūra","Eksotiskie augļi","Lētas cenas","Melnais smiltis"],
+    "answer": "Melnais smiltis"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kāds neparastais muzejs atrodas Santjago de Kubā?",
+    "options": ["Pirātisma muzejs","Zemūdens muzejs 'Muza'","Nūdeļu muzejs","Šķiršanas muzejs"],
+    "answer": "Pirātisma muzejs"
+  },
+  {
+    "country": "kuba",
+    "topic": "kurort",
+    "question": "Kura Kubas pilsētā lielākā daļa iedzīvotāju ir franču izcelsmes?",
+    "options": ["Kajokoko","Cienfuegos", "Las-Tunas","Trinidada"],
+    "answer": "Cienfuegos"
+  }
+]

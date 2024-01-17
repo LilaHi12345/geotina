@@ -1,0 +1,241 @@
+[
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas ir Meksikas galvaspilsēta?",
+    "options": ["Kankuna","Mehiko","Tihuana","Čivava"],
+    "answer": "Mehiko"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas ir Meksikas sudraba galvaspilsēta?",
+    "options": ["Mehiko", "Leona", "Takso", "Kankuna"],
+    "answer": "Takso"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Cik laiku joslās atrodas Meksika?",
+    "options": ["4","5","2","1"],
+    "answer": "4"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas apskalo Meksiku rietumos?",
+    "options": ["Karību jūra un Atlantijas okeāns","Karību jūra un Klusais okeāns","Klusais okeāns un Meksikas līcis","Klusais okeāns un Kalifornijas līcis"],
+    "answer": "Klusais okeāns un Kalifornijas līcis"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas apskalo Meksiku austrumos?",
+    "options": ["Karību jūra un Klusais okeāns","Meksikas līcis un Karību jūra","Meksikas līcis un Atlantijas okeāns","Meksikas jūra un Meksikas līcis"],
+    "answer": "Meksikas līcis un Karību jūra"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kura reliģija ir vispopulārākā Meksikā?",
+    "options": ["Katolisms","Pareizticība","Musulmanisms","Protestantisms"],
+    "answer": "Katolisms"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Cik cilvēku dzīvo Meksikā?",
+    "options": ["90 milj","150 milj","92 milj","107 milj"],
+    "answer": "92 milj"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kāda ir valsts valoda Meksikā?",
+    "options": ["Angļu valoda","Franču valoda","Itāļu valoda","Spāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kuru mirušo valodu Meksikā mēģina atjaunot?",
+    "options": ["Meksikāņu valodu","Maiju valodu","Aborigēnu valodu","Hindu valodu"],
+    "answer": "Maiju valodu"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kas nosaka, ka Meksikā mēģina atjaunot mirušo valodu?",
+    "options": ["Pirmā izdota grāmata šajā valodā","Pirmā filma šajā valodā","Pirmais seriāls šajā valodā","Pirmā televīzijas programma šajā valodā"],
+    "answer": "Pirmais seriāls šajā valodā"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimats",
+    "question": "Cik vulkānu ir Meksikā?",
+    "options": ["43","57","48","62"],
+    "answer": "43"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimats",
+    "question": "Kas aizņem lielāko daļu no Meksikas teritorijas?",
+    "options": ["Meksikas augstienes","Tuksneši","Meži","Meksikas kalni"],
+    "answer": "Meksikas augstienes"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimats",
+    "question": "Kāds ir klimats Meksikas ziemeļos?",
+    "options": ["Tropu","Subtropu","Mērenais","Subekvatoriālais"],
+    "answer": "Subtropu"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimats",
+    "question": "Kāds ir klimats Meksikas dienvidos?",
+    "options": ["Subtropu","Subekvatoriālais","Tropu","Mērenais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimats",
+    "question": "Kāda vidēja temperatūra Meksikā?",
+    "options": ["25-27","30-32","26-29","27-30"],
+    "answer": "27-30"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Meksikas virtuve ir viena no _____.",
+    "options": ["pikantākajām un garšīgākajām","pikantākajām un oriģinālākajām", "oriģinālākajām un garšīgākajām", "pikantākajām un saldākajām"],
+    "answer": "oriģinālākajām un garšīgākajām"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kāda ir Meksikāņu virtuves vizītkartīte?",
+    "options": ["Izmanto garšvielas, kuras nav nekur citur","Izmanto vairāk nekā 80 karsto piparu veidus","Izmanto vairāk nekā 50 eksotisku augļu veidus","Katru ēdienu beidz ar desertu"],
+    "answer": "Izmanto vairāk nekā 80 karsto piparu veidus"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kādas divas virtuves ir Meksikāņu virtuves pamatā?",
+    "options": ["Franču un spāņu","Spāņu un itāļu","spāņu un indonēzijas","franču un itāļu"],
+    "answer": "Franču un spāņu"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kā Meksikā sauc kukurūzas miltos cepto gaļu?",
+    "options": ["Tamales","Sankočo","Lao","Pozole"],
+    "answer": "Pozole"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kurš no ēdieniem nav nacionālais meksikas ēdiens?",
+    "options": ["Lao", "Tacos","Tamales","Burito"],
+    "answer": "Lao"
+  },
+  { 
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kāds ir Karību baseinas reģiona slavenākais kūrorts?",
+    "options": ["Kankuna","Huaresa","Merida","Akapulko"],
+    "answer": "Kankuna"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kurš Meksikas kūrorts ir kļuvis populārs Holivudas zvaigznes vidū?",
+    "options": ["Merida", "Kankuna","Mehiko","Akapulko"],
+    "answer": "Akapulko"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Kuras Meksikas salas krastos atrodas 700km garš rifs?",
+    "options": ["Karību salas","Cozumel", "Kajo-Koko","Kajo-Gilermo"],
+    "answer": "Cozumel"
+  },
+  {
+    "country": "meksika",
+    "topic": "kurort",
+    "question": "Ko atvera I. Kusto?",
+    "options": ["Lielo Meksikas koraļu rifu","Melno koraļu rifu","Kankunas pilsētu","Lielo koraļu rifu"],
+    "answer": "Melno koraļu rifu"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Kas nozīme 'labuchin'?",
+    "options": ["Ūdenskrums","Vējapuķe","Debespuķe","Ugunskoks"],
+    "answer": "Ugunskoks"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Kāds augs visbiežāk sastopās Verakrusa apkārtnē?",
+    "options": ["Orhidejas","Kaktusi","Ugunskoki","Kukurūza"],
+    "answer": "Orhidejas"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Cik kaktusu sugu ir Sonoras tuksnesī?",
+    "options": ["220","320","120","420"],
+    "answer": "120"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "No kādas kaktusa sugas vajadzības gadījumā iegūst ūdeni?",
+    "options": ["Maguey", "Gobernadoras", "Pitahaya dulce", "Biznaga"],
+    "answer": "Biznaga"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Cik procentu no Meksikas kaktusa sugām var sastapt tikai Meksikā?",
+    "options": ["50%", "10%", "77%" , "83%"],
+    "answer": "77%"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kāds ir nacionālais putns Meksikā?",
+    "options": ["Lielais piekūns", "Zeltā ērglis", "Emu", "Lauku piekūns"],
+    "answer": "Zeltā ērglis"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kad svin Meksikas neatkarības dienu?",
+    "options": ["16. septembrī", "16. augustā", "16. martā", "16. jūnijā"],
+    "answer": "16. septembrī"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kādas krāsas tauriņi pēc Meksikas iedzīvotāju domām nesa cērību?",
+    "options": ["baltie", "zilie", "sarkanie", "zaļie"],
+    "answer": "zaļie"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Ko svin 12. decembrī?",
+    "options": ["Konstitūcijas diena", "Gvadalupes Dievmātes diena", "Revolūcijas diena", "Mirušo diena"],
+    "answer": "Gvadalupes Dievmātes diena"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=ica.jpeg width=100px height=100px>",
+    "options": ["Čičenica", "Maču Pikču", "Petra", "Gīzas piramīda"],
+    "answer": "Čičenica"
+  }
+]

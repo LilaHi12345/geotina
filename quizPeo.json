@@ -1,0 +1,247 @@
+[
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Cik daudz iedzīvotāju dzīvo Austrālijā?",
+    "options": ["25 miljoni", "20 miljoni", "18 miljoni", "22 miljoni"],
+    "answer": "22 miljoni"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāda ir nacionālā valoda Austrālijā?",
+    "options": ["Indiāņu", "Māori", "Zviedru", "Angļu"],
+    "answer": "Angļu"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāda ir visizplatītākā reliģija Austrālijā?",
+    "options": ["Kristietība", "Islam", "Hinduism", "Judaism"],
+    "answer": "Kristietība"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāds ir vidējais dzīves ilgums vīriešiem Austrālijā?",
+    "options": ["75 gadi", "79 gadi", "84 gadi", "70 gadi"],
+    "answer": "79 gadi"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Cik daudz procentu no iedzīvotājiem Austrālijā dzīvo pilsētās?",
+    "options": ["49%", "63%", "78%", "88%"],
+    "answer": "88%"
+  }, 
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāda ir Kokosu salas nacionālā valoda?",
+    "options": ["Franču valoda", "Angļu valoda", "Ķīnu valoda", "Khremu valoda"],
+    "answer": "Angļu valoda"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāda ir visizplatītākā reliģija Kokosu salās?",
+    "options": ["Kristietība", "Islam", "Hinduism", "Budisms"],
+    "answer": "Islam"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Cik ir iedzīvotāju kokosu salās?",
+    "options": ["738", "320", "647", "544"],
+    "answer": "544"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Cik procenti no Kokosu salas iedzīvotājiem ir Malaiži?",
+    "options": ["49%", "57%", "80%", "93%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāds ir vidējais vecums Kokosu salās?",
+    "options": ["42", "37", "59", "62"],
+    "answer": "42"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Cik iedzīvotāju ir Dominikānā?",
+    "options": ["15 miljoni","20 miljoni","11 miljoni","13 miljoni"],
+    "answer": "11 miljoni"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kāda ir Dominikānas nacionālā valoda?",
+    "options": ["Angļu valoda","Krievu valoda","Portugāļu valoda", "Spāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kā savadāk var nosaukt Dominikānas iedzīvotājus?",
+    "options": ["Quisqueyanos", "Estadounidenses","Hispano","Dominicanos"],
+    "answer": "Quisqueyanos"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kura reliģija ir visizplatītākā Dominikānā?",
+    "options": ["Pareizticība", "Katolicisms", "Budisms", "Islams"],
+    "answer": "Katolicisms"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kādas krāsas patīk valkāt Dominikānas iedzīvotājiem?",
+    "options": ["Košas krāsas", "Pasteļu krāsas", "Gaišas krāsas", "Melns un balts"],
+    "answer": "Košas krāsas"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Kurā Kambodžas daļā dzīvo vairāk cilvēku?",
+    "options": ["Austrumos", "Dienvidaustrumos", "Ziemeļrietumos", "Ziemeļos"],
+    "answer": "Dienvidaustrumos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik procenti no iedzīvotājiem dzīvo Dienvidaustrumos?",
+    "options": ["96%", "73%", "80%", "68%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik veci ir puse no Kambodžas iedzīvotājiem?",
+    "options": ["Jaunāki par 7 gadiem", "Jaunāki par 17 gadiem", "Vecāki par 30 gadiem", "Vecāki par 46 gadiem"],
+    "answer": "Jaunāki par 17 gadiem"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Kāda ir Kambodžas nacionālā valoda?",
+    "options": ["Angļu valoda", "Franču valoda", "Khmeru valoda", "Avesta valoda"],
+    "answer": "Khmeru valoda"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik ir iedzīvotāju Kambodžā?",
+    "options": ["16 miljon", "25 miljoni", "10 miljoni", "20 miljoni"],
+    "answer": "16 miljon"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Cik iedzīvotāju ir Kubā?",
+    "options": ["11 miljoni", "20 miljoni", "9 miljoni","15 miljoni"],
+    "answer": "11 miljoni"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Cik procentu no iedzīvotājiem Kubā ir afrikāņi,mulati un metisi?",
+    "options": ["50%", "10%", "60%","30%"],
+    "answer": "30%"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kāda ir Kubas nacionālā valoda?",
+    "options": ["Itāļu valoda", "Spāņu valoda","Franču valoda", "Meksikāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kura reliģija ir visizplatītākā Kubā?",
+    "options": ["Katolicisms", "Islams","Pareizticiība","Budisms"],
+    "answer": "Katolicisms"
+  },
+  {
+    "country": "kuba",
+    "topic": "iedz",
+    "question": "Kurā vietā Kuba ir pasaulē pēc iedzīvotāju skaita?",
+    "options": ["43.", "51.", "71.", "67."],
+    "answer": "67."
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Cik daudz cilšu un tautību dzīvo Laosā?",
+    "options": ["35", "53", "67", "70"],
+    "answer": "70"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāda ir Laosas nacionālā valoda?",
+    "options": ["Spāņu valoda", "Lao valoda", "Kambodžu valoda", "Franču valoda"],
+    "answer": "Lao valoda"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāda ir visizzplatītākā reliģija Laosā?",
+    "options": ["Pareizticība", "Katoļticība", "Budisms", "Islams"],
+    "answer": "Budisms"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kurās Laosas teritorijās mazāk dzīvo cilvēki?",
+    "options": ["Pie upes", "Kalnos", "Galvaspilsētā", "Līdzenumos"],
+    "answer": "Kalnos"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāds ir vidējais vecums Laosā?",
+    "options": ["30", "28", "24", "19"],
+    "answer": "19"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kura reliģija ir vispopulārākā Meksikā?",
+    "options": ["Katolisms","Pareizticība","Musulmanisms","Protestantisms"],
+    "answer": "Katolisms"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Cik cilvēku dzīvo Meksikā?",
+    "options": ["90 milj","150 milj","92 milj","107 milj"],
+    "answer": "92 milj"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kāda ir valsts valoda Meksikā?",
+    "options": ["Angļu valoda","Franču valoda","Itāļu valoda","Spāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kuru mirušo valodu Meksikā mēģina atjaunot?",
+    "options": ["Meksikāņu valodu","Maiju valodu","Aborigēnu valodu","Hindu valodu"],
+    "answer": "Maiju valodu"
+  },
+  {
+    "country": "meksika",
+    "topic": "iedz",
+    "question": "Kas nosaka, ka Meksikā mēģina atjaunot mirušo valodu?",
+    "options": ["Pirmā izdota grāmata šajā valodā","Pirmā filma šajā valodā","Pirmais seriāls šajā valodā","Pirmā televīzijas programma šajā valodā"],
+    "answer": "Pirmais seriāls šajā valodā"
+  }
+]

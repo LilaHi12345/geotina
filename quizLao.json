@@ -1,0 +1,252 @@
+[
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kāda ir Laosa galvaspilsēta?",
+    "options": ["Lūenphabāna", "Lamam", "Vjenčana", "Salavan"],
+    "answer": "Vjenčana"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Cik ddaudz provinču ir Laosā?",
+    "options": ["16","21","19","13"],
+    "answer": "16"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Ar kuru valsti Laosai nav robežu?",
+    "options": ["Kambodža", "Vjetnama", "Taizeme", "Indija"],
+    "answer": "Indija"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kurā vietā pasaules topā ir Laosa pēc platības?",
+    "options": ["82", "94","69", "85"],
+    "answer": "82"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kur atrodas Laosa?",
+    "options": ["Filipīnu salās", "Indoķīnas salās", "Indoķīnas pussalā", "Phiketā"],
+    "answer": "Indoķīnas pussalā"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Cik daudz cilšu un tautību dzīvo Laosā?",
+    "options": ["35", "53", "67", "70"],
+    "answer": "70"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāda ir Laosa nacionālā valoda?",
+    "options": ["Spāņu valoda", "Lao valoda", "Kambodžu valoda", "Franču valoda"],
+    "answer": "Lao valoda"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāda ir visizzplatītākā reliģija Laosā?",
+    "options": ["Pareizticība", "Katoļticība", "Budisms", "Islams"],
+    "answer": "Budisms"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kurās Laosa teritorijās mazāk dzīvo cilvēki?",
+    "options": ["Pie upes", "Kalnos", "Galvaspilsētā", "Līdzenumos"],
+    "answer": "Kalnos"
+  },
+  {
+    "country":"laosa",
+    "topic":"iedz",
+    "question": "Kāds ir vidējais vecums Laosā?",
+    "options": ["30", "28", "24", "19"],
+    "answer": "19"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kurā Laosa daļā ir vairāk kalnu un augstieņu?",
+    "options": ["Dividos", "Austrumos", "Ziemeļos", "Rietumos"],
+    "answer": "Ziemeļos"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kāds ir Laosa klimats?",
+    "options": ["Subekvatoriālais", "Tropu", "Mērenais", "Subtropu"],
+    "answer": "Subekvatoriālais"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kad ir vasara Laosā?",
+    "options": ["Marts-Jūlijs", "Septembris-Maijs", "Novembris-Marts", "Maijs-Oktobris"],
+    "answer": "Maijs-Oktobris"
+  },
+  {
+    "country": "laosa",
+    "topic": "klimat",
+    "question": "Kāda ir vidēja temperatūra Laosā ziemā?",
+    "options": ["15-22", "17-20", "10-16", "23-27"],
+    "answer": "15-22"
+  },
+  {
+    "country": "laosa",
+    "topic": "klimat",
+    "question": "Kāda ir lielākā upe Laosā?",
+    "options": ["Kadinga", "Mekonga", "Bangfai", "Banghianga"],
+    "answer": "Mekonga"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kāds ir populārākais dzēriens Laosā?",
+    "options": ["Stipra melnā kafija ar pienu", "Melnā tēja ar pienu", "Stipra melnā kafija ar iebiezināto pienu", "Melnā tēja bez cukura"],
+    "answer": "Stiprā melnā kafija ar iebiezināto pienu"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=ping.jpeg width=100px height=100px>",
+    "options": ["Tam Mak Houng", "Ping Kai", "Khao Soi", "Laosas desa"],
+    "answer": "Ping Kai"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kāds ir Laosa galvenais ēdiens?",
+    "options": ["Lipīgie rīsi", "Laosas desa", "Zaļās papaijas salāti", "Laosas gaļas pīrags"], 
+    "answer": "Lipīgie rīsi"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kā sauc pikantu marinētas gaļas vai zivju maisījumu, kas dažreiz ir jēls ar dažādu garšaugu, zaļumu un garšvielu kombināciju?",
+    "options": ["Jaew Bong", "Laap", "Larbs", "Pavlova"],
+    "answer": "Larbs"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kam Laosas iedzīvotāji dod priekšroku ēst?",
+    "options": ["Draugiem", "Vientulībai", "Kolēģiem", "Ģimenei"],
+    "answer": "Ģimenei"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kad svin Laosas neatkārības dienu?",
+    "options": ["1. aprīlī", "1. novembrī", "1. augustā", "1. jūnijā"],
+    "answer": "1. novembrī"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kas nozīmē zila krāsa Laosas karogā?",
+    "options": ["Cērību", "Brīvību", "Pārticību", "Debesis"],
+    "answer": "Pārticību"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kurš ir Laosas karogs?",
+    "image": "1.<img src=4.jpeg width=150px height=100px> 2.<img src=2.jpeg width=150px height=100px>   3.<img src=1.jpeg width=150px height=100px> 4.<img src=3.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "1."
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Ko nozīmē sarkana krāsa Laosas karogā?",
+    "options": ["Mīlestību", "Asinis", "Stiprumu", "Sauli"],
+    "answer": "Asinis"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kāds ir Laosas nacionālais zieds?",
+    "options": ["Kukurūza", "Karaliskā palma", "Plumērija", "Orhideja"],
+    "answer": "Plumērija"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kuru dzīvnieku Laosā uzskata par bigfoot senči?",
+    "options": ["Tibētas lācis", "Marmora kaķis", "Sarkanā panda", "Lielā panda"],
+    "answer": "Tibētas lācis"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kuru dzīvnieku sauc arī par ‘Musangu’ Laosā?",
+    "options": ["Sarkanā panda", "Palmu cauna", "Baltais tīģeris", "Orangutāns"],
+    "answer": "Palmu cauna"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kurā Laosas daļā var satikt vairāk ziloņus?",
+    "options": ["Ziemeļos", "Austrumos", "Rietumos","Dienvidos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kurš dzīvnieks no veciem laikiem ir Laosas simbols?",
+    "options": ["Ķengurs", "Zilonis", "Sarkanā panda", "Tīģeris"],
+    "answer": "Zilonis"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=panda.jpeg width=100px height=100px>",
+    "options": ["Baltā panda", "Palmu cauna", "Sarkana panda", "Lielā panda"],
+    "answer": "Sarkana panda"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kura pilsēta bija Laosas galvaspilsēta 14.-20. gs.?",
+    "options": ["Vientiane", "Nong Khiaw", "Muang Ngoy", "Lūenphabāna"],
+    "answer": "Lūenphabāna"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=waterfall.jpeg width=100px height=100px>",
+    "options": ["Tad Sae ūdenskritum", "Hanakapiai ūdenskritums", "Plitvices ūdenskritums", "Gulfoss jeb Zelta ūdenskritums"],
+    "answer": "Tad Sae ūdenskritum"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kurā Laosas pilsētā atrodas Budas parks?",
+    "options": ["Vientiane", "Nong Khiaw", "Muang Ngoy", "Lūenphabāna"],
+    "answer": "Vientiane"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=vatpou.jpeg width=100px height=100px>",
+    "options": ["Zelta pilsētas templis", "Vat Pou templis", "Wat Si Saket templis", "Phu si templis"],
+    "answer": "Vat Pou templis"
+  },
+  {
+    "country": "laosa",
+    "topic": "kurort",
+    "question": "Kur atrodas Vat Pou templis?",
+    "options": ["Vientiane", "Nong Khiaw", "Čampasaka", "Lūenphabāna"], 
+    "answer": "Čampasaka"
+  }
+]

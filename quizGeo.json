@@ -1,0 +1,247 @@
+[
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kāda ir Austrālijas galvaspilsēta?",
+    "options": ["Sidneja", "Kanbera", "Brisbane", "Melbourne"],
+    "answer": "Kanbera"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kuri okeāni apskalo Austrāliju?",
+    "options": ["Atlantijas un Indijas okeāns", "Ziemeļledus un Klusais okeāns", "Indijas un Klusais okeāns", "Atlantijas un Klusais okeāns"],
+    "answer": "Indijas un Klusais okeāns"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kurā Zemes pusē Austrāliju apskalo Lielais Austrālijas līcis?",
+    "options": ["Dienvidos","Austrumos", "Rietumos", "Ziemeļos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kuras valsts platība ir gandrīz vienāda ar Austrālijas platību?",
+    "options": ["ASV", "Ķīna", "Vācija", "ASV bez Aļaskas"],
+    "answer": "ASV bez Aļaskas"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Ar kuru jūru Austrālija netiek apskalota?",
+    "options": ["Arafuru jūra", "Timoras jūra", "Koraļļu jūra", "Kilikijas jūra"],
+    "answer": "Kilikijas jūra"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Kāda ir Kokosu salas galvaspilsēta?",
+    "options": ["Vestailenda", "Batama", "Pulo Cheplok", "Pulo Blan"],
+    "answer": "Vestailenda"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Kāds okeāns apskalo Kokosu salas?",
+    "options": ["Atlantijas okeāns", "Indijas okeāns", "Klusais okeāns", "Dienvidu okeāns"],
+    "answer": "Indijas okeāns"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "No cik salām sastāv Kokosu salas?",
+    "options": ["39 salas", "20 salas", "15 salas", "27 salas"],
+    "answer": "27 salas"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Cik kvadrātmetru liela ir Kokosu salas?",
+    "options": ["14,2", "17,8", "29,5", "10,4"],
+    "answer": "14,2"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Zem kuras valsts ir Kokosu salas?",
+    "options": ["Ķīna", "Taizeme", "Filipīnas", "Austrālija"],
+    "answer": "Austrālija"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kur atrodas Dominikānas Republika?",
+    "options": ["Haiti salas austrumu daļā", "Haiti salas rietumu daļā", "Meksikas līcī","Ziemeļamerikā"],
+    "answer": "Haiti salas austrumu daļā"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kāda ir Dominikānas galvaspilsēta?",
+    "options": ["Samana", "Santiago","La Romana", "Santodomingo"],
+    "answer": "Santodomingo"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kas apskalo Dominikānu ziemeļos?",
+    "options": ["Klusais okeāns", "Atlantijas okeāns", "Karību jūra", "Mona šaurums"],
+    "answer": "Atlantijas okeāns"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kas apskalo Dominikānu dienvidos?",
+    "options": ["Klusais okeāns","Monas šaurums", "Meksikas līcis", "Karību jūra"],
+    "answer": "Karību jūra"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kura pilsēta ir vissenākā Dominikānā?",
+    "options": ["Santodomingo", "Santiago", "Punta Cana","Nagva"],
+    "answer": "Santodomingo"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kāda ir Kambodžas galvaspilsētā?",
+    "options": ["Siemripa", "Angkora", "Pnompena", "Taprom"],
+    "answer": "Pnompena"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kas apskalo Kambodžu Dienvidaustrumos?",
+    "options": ["Kaspijas jūra", "Dzeltenā jūra", "Persijas līcis", "Siāmas līcis"],
+    "answer": "Siāmas līcis"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kurā Indoķīnas pussalas daļā atrodas Kambodža?",
+    "options": ["Dienvidos", "Austrumos", "Ziemeļos", "Rietumos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Ar kuru valsti Kambodža robežojas austrumos?",
+    "options": ["Laosa", "Taizeme", "Ķīna", "Vjetnama"],
+    "answer": "Vjetnama"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kāds ir Kambodžas oficiālais nosaukums?",
+    "options": ["Kampučija", "Kambodžas Karaliste", "Kambodžas Republika", "Kambodžas Federācija"],
+    "answer": "Kambodžās Karaliste"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas ir Kubas galvaspilsēta?",
+    "options": ["Nuevaherona", "Havanna", "Santjago de Kuba","Las-Tunas"],
+    "answer": "Havanna"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kur atrodas Kuba?",
+    "options": ["Dienvidamerikā","Havaju salās", "Karību salās", "Dienvidāzijā"],
+    "answer": "Karību salās"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kurā laiku joslā atrodas Kuba?",
+    "options": ["GMT -3", "GMT -4", "GMT -5", "GMT -6"],
+    "answer": "GMT -4" 
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas apskalo Kubu dienvidos?",
+    "options": ["Karību jūra", "Atlantijas okeāns","Meksikas līcis", "Kalifornijas līcis"],
+    "answer": "Karību jūra"
+  },
+  {
+    "country": "kuba",
+    "topic": "geo",
+    "question": "Kas apskalo Kubu ziemeļos?",
+    "options": ["Karību jūra", "Meksikas līcis", "Florīdas līcis", "Klusais okeāns"],
+    "answer": "Florīdas šaurums"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kāda ir Laosa galvaspilsēta?",
+    "options": ["Lūenphabāna", "Lamam", "Vjenčana", "Salavan"],
+    "answer": "Vjenčana"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Cik ddaudz provinču ir Laosā?",
+    "options": ["16","21","19","13"],
+    "answer": "16"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Ar kuru valsti Laosai nav robežu?",
+    "options": ["Kambodža", "Vjetnama", "Taizeme", "Indija"],
+    "answer": "Indija"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kurā vietā pasaules topā ir Laosa pēc platības?",
+    "options": ["82", "94","69", "85"],
+    "answer": "82"
+  },
+  {
+    "country":"laosa",
+    "topic":"geo",
+    "question": "Kur atrodas Laosa?",
+    "options": ["Filipīnu salās", "Indoķīnas salās", "Indoķīnas pussalā", "Phiketā"],
+    "answer": "Indoķīnas pussalā"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas ir Meksikas galvaspilsēta?",
+    "options": ["Kankuna","Mehiko","Tihuana","Čivava"],
+    "answer": "Mehiko"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas ir Meksikas sudraba galvaspilsēta?",
+    "options": ["Mehiko", "Leona", "Takso", "Kankuna"],
+    "answer": "Takso"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Cik laiku joslās atrodas Meksika?",
+    "options": ["4","5","2","1"],
+    "answer": "4"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas apskalo Meksiku rietumos?",
+    "options": ["Karību jūra un Atlantijas okeāns","Karību jūra un Klusais okeāns","Klusais okeāns un Meksikas līcis","Klusais okeāns un Kalifornijas līcis"],
+    "answer": "Klusais okeāns un Kalifornijas līcis"
+  },
+  {
+    "country": "meksika",
+    "topic": "geo",
+    "question": "Kas apskalo Meksiku austrumos?",
+    "options": ["Karību jūra un Klusais okeāns","Meksikas līcis un Karību jūra","Meksikas līcis un Atlantijas okeāns","Meksikas jūra un Meksikas līcis"],
+    "answer": "Meksikas līcis un Karību jūra"
+  }
+]

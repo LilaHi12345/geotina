@@ -1,0 +1,253 @@
+[
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kāda ir Kambodžas galvaspilsētā?",
+    "options": ["Siemripa", "Angkora", "Pnompena", "Taprom"],
+    "answer": "Pnompena"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kas apskalo Kambodžu Dienvidaustrumos?",
+    "options": ["Kaspijas jūra", "Dzeltenā jūra", "Persijas līcis", "Siāmas līcis"],
+    "answer": "Siāmas līcis"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kurā Indoķīnas pussalas daļā atrodas Kambodža?",
+    "options": ["Dienvidos", "Austrumos", "Ziemeļos", "Rietumos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Ar kuru valsti Kambodža robežojas austrumos?",
+    "options": ["Laosa", "Taizeme", "Ķīna", "Vjetnama"],
+    "answer": "Vjetnama"
+  },
+  {
+    "country": "kambodza",
+    "topic": "geo",
+    "question": "Kāds ir Kambodžas oficiālais nosaukums?",
+    "options": ["Kampučija", "Kambodžas Karaliste", "Kambodžas Republika", "Kambodžas Federācija"],
+    "answer": "Kambodžās Karaliste"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Ar ko atšķiras Kambodžas Lielā ezera upe no visām parējām?",
+    "options": ["Visšaurākā upe pasaulē", "Visplātākā upe pasaul", "Plūst divos virzienos", "Upes sākumpunkts ir ezer"],
+    "answer": "Plūst divos virzienos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kāds ir Kambodžas klimats?",
+    "options": ["Tropu", "Subtropu", "Ekvatoriālais", "Subekvatoriālais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kad Kambodžā ir lietus sezons?",
+    "options": ["Augusts-Novembris", "Oktobris-Februāris", "Mart-Jūlijs", "Maijs-Oktobris"],
+    "answer": "Maijs-Oktobris"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Ap cik % no gada nokrišņiem izkrīt lietus sezonā?",
+    "options": ["95%", "80%", "76%", "56%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kāds ir karstākais mēnesis Kambodžā?",
+    "options": ["Maijs", "Oktobris", "Aprīlis", "Augusts"],
+    "answer": "Aprīlis"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Kurā Kambodžas daļā dzīvo vairāk cilvēku?",
+    "options": ["Austrumos", "Dienvidaustrumos", "Ziemeļrietumos", "Ziemeļos"],
+    "answer": "Dienvidaustrumos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik procenti no iedzīvotājiem dzīvo Dienvidaustrumos?",
+    "options": ["96%", "73%", "80%", "68%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik veci ir puse no Kambodžas iedzīvotājiem?",
+    "options": ["Jaunāki par 7 gadiem", "Jaunāki par 17 gadiem", "Vecāki par 30 gadiem", "Vecāki par 46 gadiem"],
+    "answer": "Jaunāki par 17 gadiem"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Kāda ir Kambodžas nacionālā valoda?",
+    "options": ["Angļu valoda", "Franču valoda", "Khmeru valoda", "Avesta valoda"],
+    "answer": "Khmeru valoda"
+  },
+  {
+    "country": "kambodza",
+    "topic": "iedz",
+    "question": "Cik ir iedzīvotāju Kambodžā?",
+    "options": ["16 miljon", "25 miljoni", "10 miljoni", "20 miljoni"],
+    "answer": "16 miljon"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kurām virtuvēm ir līdzīga Kambodžas virtuve?",
+    "options": ["Vjetnamiešu un Taizemes", "Taizemes un Laosas", "Ķīniešu un Laosas", "Japānu un Austrāliešu"],
+    "answer": "Taižemiešu un Laosas"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kas ir 'Amok'?",
+    "options": ["Zupa ar saldu un skābu garšu, pagatavota no zivīm, tomātiem un ananāsiem", "Nūdeļu zupa, kurai pēc garšas pievieno čili, zivju mērci, laima sulu, kā arī gaļu vai jūras velties", "Augļu pīrāgs", "Gaļa vai jūras veltes ar dārzeņiem, karija mērci un kokosriekstu pienu"],
+    "answer": "Gaļa vai jūras veltes ar dārzeņiem, karija mērci un kokosriekstu pienu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=samlar.jpeg width=100px height=100px>",
+    "options": ["Slēdzenes pulēšana", "Samlarmachu", "Norms pa", "Kuytheav"],
+    "answer": "Samlarmachu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kad notiek khmeru virtuves festivāls Kambodžā?",
+    "options": ["Aprīlī", "Jūnijā", "Augustā", "Martā"],
+    "answer": "Aprīlī"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kāds ēdiens ir vairāk iecienīts Kambodžā?",
+    "options": ["Pīrāgs", "Zupa", "Kartupeļi", "Zivs"],
+    "answer": "Zupa"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kādas ir galvenās Kambodžas vērtības?",
+    "options": ["Brīvība, nācija, valoda", "Nācija, varonība, cerība", "Nācija, reliģija, ķēniņš", "Reliģija, brīvība, cerība"],
+    "answer": "Nācija, reliģija, ķēniņš"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kurš ir Kambodžas karogs?",
+    "image": "1.<img src=5.jpeg width=150px height=100px> 2.<img src=6.jpeg width=150px height=100px> 3.<img src=7.jpeg width=150px height=100px> 4.<img src=8.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "4."
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kurš ir Kambodžas ģerbonis?",
+    "image": "1.<img src=9.jpeg width=100px height=100px> 2.<img src=10.jpeg width=100px height=100px> 3.<img src=11.jpeg width=100px height=100px> 4.<img src=12.jpeg width=100px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "2."
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kāda ir nozīme zilai krāsai Kambodžas karogā?",
+    "options": ["Debesis un tīrība", "Brīvība un jūra", "Cerība un ūden", "Pārticība un varonība"],
+    "answer": "Debesis un tīrība"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Ko nozīme sarkanā krāsa Kambodžas karogā?",
+    "options": ["Asinis un varonību", "Reliģiju un cerību", "Asinis un drosmi", "Drosmi un tautu"],
+    "answer": "Drosmi un tautu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Kambodžas austrumu daļā?",
+    "options": ["Eikvaliptu", "Tropu", "Platlapju", "Skujkoku"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kāds ir viens no trim izplatītākiem kokiem Kambodžā?",
+    "options": ["Kokosriekstu palma", "Banānu palma", "Karaliskā palma", "Sarkanais koks"],
+    "answer": "Kokosriekstu palma"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Līdz cik metriem var izaugt koki Kambodžā?",
+    "options": ["290 metri", "570 metri", "310 metri", "400 metri"],
+    "answer": "400 metri"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kurš auglis ir karalis starp Kambodžas augļiem?",
+    "options": ["Banāni", "Dūrians", "Mango", "Džek-Fruit"],
+    "answer": "Dūrians"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=fikuss.jpeg width=100px height=100px>",
+    "options": ["Fikuss", "Vīģes koks", "Aglonēma", "Ananāss"],
+    "answer": "Fikuss"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Cik plats ir Angorvata templis?",
+    "options": ["4km kvadrātā", "1 km kvadrāt", "500m kvadrātā", "2 km kvadrātā"],
+    "answer": "2 km kvadrātā"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kura bija Khmeru impērijas galvaspilsēta?",
+    "options": ["Siemripa", "Taprom", "Angkora", "Baion"],
+    "answer": "Angkora"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=muzejs.jpeg width=100px height=100px>",
+    "options": ["Zelta templis", "Valsts muzejs", "Angorvata templis", "Taprohm templis"],
+    "answer": "Valsts muzejs"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Cik krokodilu dzīvo krokodilu fermā Kambodžā?",
+    "options": ["2000", "500", "3000", "1000"],
+    "answer": "1000"
+  },
+  {
+    "country": "kambodza",
+    "topic": "kurort",
+    "question": "Kur var redzēt retos Irrawaddy delfīnus?",
+    "options": ["Kraite", "Sianukvilla", "Kampots", "Banlung"],
+    "answer": "Kraite"
+  }
+
+]

@@ -1,0 +1,250 @@
+[
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kādu dzērienu gatavo Austrālijas ziemeļos?",
+    "options": ["Austrālijas baltais vīns", "Austrālijas baltais rums", "Austrālijas tumšais alus", "Austrālijas melnais rums"],
+    "ansswer": "Austrālijas melnais rums"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kurš nacionālais ēdiens tiek gatavots dažādi katrā Austrālijas reģionā?",
+    "options": ["Pavlova", "Anaboroo", "Dalīties", "Bitruts"],
+    "answer": "Dalīties"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=lamingtons.jpeg width=100px height=100px>",
+    "options": ["Pavlova", "Lamingtons", "Pasaku maizīte", "Anzac cepumi"],
+    "answer": "Lamingtons"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kurš zivs tiek uzskatīts par Austrālijas nacionālo ēdienu?",
+    "options": ["Barakuda", "Lasis", "Karūsa", "Garspuru mako haizivs"],
+    "answer": "Barakuda"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kādu noteikumu par ēdienu ievēro austrālieši?",
+    "options": ["Katru ēdienkārtu jāpabeidz ar desertu", "Katram ēdienam jābūt pikantam un saldam", "Katram ēdienam jābūt oriģinālam", "Katru ēdienkārti jāsāk ar saldo ēdienu"],
+    "answer": "Ēdienam jābūt oriģinālam"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "No kā visvairāk sastāv Kokosu salas ēdiens?",
+    "options": ["Banāni", "Zivs", "Kokosrieksti", "Gaļa"],
+    "answer": "Zivs"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Ar ko parrasti dod zivis Kokosu salās?",
+    "options": ["Rīsi", "Kartupeļi", "Makaroni", "Augļi"],
+    "answer": "Kartupeļi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": ["Kuru produktu Kokosu salas iedzīvotāji gandrīz need?"],
+    "options": ["Dārzeņi", "Augļi", "Rīsi", "Gaļa"],
+    "answer": "Gaļa"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Ar ko Kokosu salas iedzīvotāji ēd visu ēdienu?",
+    "options": ["Augļi", "Dārzeņi", "Maize", "Siers"],
+    "answer": "Maize"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Kuru no dzerieniem Kokosu salās parasti nepiedavā restorānos?",
+    "options": ["Sula", "Vietējais alus", "Zāļa tēja", "Vietēja kafija"],
+    "answer": "Vietēja kafija"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kāds dzeriens ir populārs Dominikānā?",
+    "options": ["Dominikānas kafija", "Brugal","Mamahuana","Rums"],
+    "answer": "Brugal"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kurš dzeriens Dominikānā netiek pasniegts ar ledu?",
+    "options": ["Rums", "Sula","Tēja", "Kafija"],
+    "answer": "Kafija"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kurām virtuvēm ir līdzīga Dominikāņu virtuve?",
+    "options": ["Afrikāņu un spāņu", "Spāņu un franču", "Spāņu un meksikāņu", "Afrikāņu un franču"],
+    "answer": "Afrikāņu un spāņu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kas ir raksturīgs Dominikāņu virtuvei?",
+    "options": ["Katrām ēdienām jābūt pēc iespējas saldākām", "Pikantu piparu izmantošana katrā ēdienā", "Kokosriekstu un zaļo banānu izmantošana", "Apelsīnu un Citronu plaša izmantošana"],
+    "answer": "Kokosriekstu un zaļo banānu izmantošana"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kā sauc ēdienu - zivis kokosriekstu mērcē - Dominikānā?",
+    "options": ["Asopao","Pescado con coco","Kangrejo gisado", "El moro"],
+    "answer": "Pescado con coco"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kurām virtuvēm ir līdzīga Kambodžas virtuve?",
+    "options": ["Vjetnamiešu un Taizemes", "Taizemes un Laosas", "Ķīniešu un Laosas", "Japānu un Austrāliešu"],
+    "answer": "Taižemiešu un Laosas"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kas ir 'Amok'?",
+    "options": ["Zupa ar saldu un skābu garšu, pagatavota no zivīm, tomātiem un ananāsiem", "Nūdeļu zupa, kurai pēc garšas pievieno čili, zivju mērci, laima sulu, kā arī gaļu vai jūras velties", "Augļu pīrāgs", "Gaļa vai jūras veltes ar dārzeņiem, karija mērci un kokosriekstu pienu"],
+    "answer": "Gaļa vai jūras veltes ar dārzeņiem, karija mērci un kokosriekstu pienu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=samlar.jpeg width=100px height=100px>",
+    "options": ["Slēdzenes pulēšana", "Samlarmachu", "Norms pa", "Kuytheav"],
+    "answer": "Samlarmachu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kad notiek khmeru virtuves festivāls Kambodžā?",
+    "options": ["Aprīlī", "Jūnijā", "Augustā", "Martā"],
+    "answer": "Aprīlī"
+  },
+  {
+    "country": "kambodza",
+    "topic": "virtuve",
+    "question": "Kāds ēdiens ir vairāk iecienīts Kambodžā?",
+    "options": ["Pīrāgs", "Zupa", "Kartupeļi", "Zivs"],
+    "answer": "Zupa"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kuru augļi visvairāk mīl Kubā?",
+    "options": ["apelsīni", "kivi", "kokosi", "banāni"],
+    "answer": "banāni"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kā sauc trauku bieza kubiešu zupas formā, kurai pievienoti kukurūza, gaļa, juka, citrons, ķirbis, banāns un mērce?",
+    "options": ["Picadillo", "Ahiaco criollo", "Mango medaljons", "Arroz con polo"],
+    "answer": "Ahiaco criollo"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Ar ko beidzas katra maltīte?",
+    "options": ["Eksotisku desertu","Eksotisku augli","Natilla Cubana", "Rumu"],
+    "answer": "Eksotisku desertu"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kāpēc Kubas iedzīvotāji ēd daudz saldumu?",
+    "options": ["Mitoloģijas dēļ", "Viņi neēd daudz saldumu","Jo mīl saldumus","Lai būtu gudrākiem"],
+    "answer": "Jo mīl saldumus"
+  },
+  {
+    "country": "kuba",
+    "topic": "virtuve",
+    "question": "Kurš dzeriens ir laba dāvana no Kubas?",
+    "options": ["Kubas vīns", "Sula no eksotiskiem augļiem","Kubas kafija","Kubas rums"],
+    "answer": "Kubas rums"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kāds ir populārākais dzēriens Laosā?",
+    "options": ["Stipra melnā kafija ar pienu", "Melnā tēja ar pienu", "Stipra melnā kafija ar iebiezināto pienu", "Melnā tēja bez cukura"],
+    "answer": "Stiprā melnā kafija ar iebiezināto pienu"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=ping.jpeg width=100px height=100px>",
+    "options": ["Tam Mak Houng", "Ping Kai", "Khao Soi", "Laosas desa"],
+    "answer": "Ping Kai"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kāds ir Laosa galvenais ēdiens?",
+    "options": ["Lipīgie rīsi", "Laosas desa", "Zaļās papaijas salāti", "Laosas gaļas pīrags"], 
+    "answer": "Lipīgie rīsi"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kā sauc pikantu marinētas gaļas vai zivju maisījumu, kas dažreiz ir jēls ar dažādu garšaugu, zaļumu un garšvielu kombināciju?",
+    "options": ["Jaew Bong", "Laap", "Larbs", "Pavlova"],
+    "answer": "Larbs"
+  },
+  {
+    "country": "laosa",
+    "topic": "virtuve",
+    "question": "Kam Laosas iedzīvotāji dod priekšroku ēst?",
+    "options": ["Draugiem", "Vientulībai", "Kolēģiem", "Ģimenei"],
+    "answer": "Ģimenei"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Meksikas virtuve ir viena no _____.",
+    "options": ["pikantākajām un garšīgākajām","pikantākajām un oriģinālākajām", "oriģinālākajām un garšīgākajām", "pikantākajām un saldākajām"],
+    "answer": "oriģinālākajām un garšīgākajām"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kāda ir Meksikāņu virtuves vizītkartīte?",
+    "options": ["Izmanto garšvielas, kuras nav nekur citur","Izmanto vairāk nekā 80 karsto piparu veidus","Izmanto vairāk nekā 50 eksotisku augļu veidus","Katru ēdienu beidz ar desertu"],
+    "answer": "Izmanto vairāk nekā 80 karsto piparu veidus"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kādas divas virtuves ir Meksikāņu virtuves pamatā?",
+    "options": ["Franču un spāņu","Spāņu un itāļu","spāņu un indonēzijas","franču un itāļu"],
+    "answer": "Franču un spāņu"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kā Meksikā sauc kukurūzas miltos cepto gaļu?",
+    "options": ["Tamales","Sankočo","Lao","Pozole"],
+    "answer": "Pozole"
+  },
+  {
+    "country": "meksika",
+    "topic": "virtuve",
+    "question": "Kurš no ēdieniem nav nacionālais meksikas ēdiens?",
+    "options": ["Lao", "Tacos","Tamales","Burito"],
+    "answer": "Lao"
+  }
+]

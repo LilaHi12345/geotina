@@ -1,0 +1,249 @@
+[
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Kāda ir Kokosu salas galvaspilsēta?",
+    "options": ["Vestailenda", "Batama", "Pulo Cheplok", "Pulo Blan"],
+    "answer": "Vestailenda"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Kāds okeāns apskalo Kokosu salas?",
+    "options": ["Atlantijas okeāns", "Indijas okeāns", "Klusais okeāns", "Dienvidu okeāns"],
+    "answer": "Indijas okeāns"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "No cik salām sastāv Kokosu salas?",
+    "options": ["39 salas", "20 salas", "15 salas", "27 salas"],
+    "answer": "27 salas"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Cik kvadrātmetru liela ir Kokosu salas?",
+    "options": ["14,2", "17,8", "29,5", "10,4"],
+    "answer": "14,2"
+  },
+  {
+    "country": "kokosi",
+    "topic": "geo",
+    "question": "Zem kuras valsts ir Kokosu salas?",
+    "options": ["Ķīna", "Taizeme", "Filipīnas", "Austrālija"],
+    "answer": "Austrālija"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāda ir Kokosu salas nacionālā valoda?",
+    "options": ["Franču valoda", "Angļu valoda", "Ķīnu valoda", "Khremu valoda"],
+    "answer": "Angļu valoda"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāda ir visizplatītākā reliģija Kokosu salās?",
+    "options": ["Kristietība", "Islam", "Hinduism", "Budisms"],
+    "answer": "Islam"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Cik ir iedzīvotāju kokosu salās?",
+    "options": ["738", "320", "647", "544"],
+    "answer": "544"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Cik procenti no Kokosu salas iedzīvotājiem ir Malaiži?",
+    "options": ["49%", "57%", "80%", "93%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kokosi",
+    "topic": "iedz",
+    "question": "Kāds ir vidējais vecums Kokosu salās?",
+    "options": ["42", "37", "59", "62"],
+    "answer": "42"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāds ir Kokosu salas klimats?",
+    "options": ["Subtropu", "Subekvatoriālais", "Ekvatoriālais", "Tropu"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāds ir videjais nokrišņu daudzums ir Kokosu salās?",
+    "options": ["3000mm", "2500mm", "2000mm", "3500mm"],
+    "answer": "2500mm"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kad ir lietus sezons Kokosu salās?",
+    "options": ["Marts - Septembris", "Novembris - Decembris", "Decembris-Jūnijs", "Oktobris-Aprīlis"],
+    "answer": "Oktobris-Aprīlis"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāda ir videja temperatūra Kokosu salās?",
+    "options": ["15-24", "27-32", "20-27", "21-23"],
+    "answer": "27-32"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Cik augsta ir visaugstākā vieta Kokosu salās?",
+    "options": ["26 metri", "17 metri", "5 metri", "13 metri"],
+    "answer": "5 metri"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kuri dzīvnieki tika atvesti uz Kokosu salām, bet neizdzīvoja?",
+    "options": ["Zaķi", "Peles", "Lāči", "Tīģeri"],
+    "answer": "Zaķi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kurš no Kokosu salas dzīvojošiem dzīvniekiem nedzīvo Ziemeļu salā?",
+    "options": ["Toki gekons", "Leopardgekons", "Sārtais strazds", "Melnā žurka"],
+    "answer": "Melnā žurka"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Apmēram cik zivju sugas bija reģistrēti pie Kokosu salām?",
+    "options": ["200", "100", "500", "780"],
+    "answer": "500"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kuras palmas sugas ir visizplatītākas Kokosu salās?",
+    "options": ["Kokosriekstu palmas", "Banānu palmas", "Mango palmas", "Ananāsu palmas"],
+    "answer": "Kokosriekstu palmas"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kurā gadā bija izveidots nacionālais parks Pulu Kīlings Kokosu salās?",
+    "options": ["1947.", "1973.", "1987.", "1995."],
+    "answer": "1995."
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "No kā visvairāk sastāv Kokosu salas ēdiens?",
+    "options": ["Banāni", "Zivs", "Kokosrieksti", "Gaļa"],
+    "answer": "Zivs"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Ar ko parrasti dod zivis Kokosu salās?",
+    "options": ["Rīsi", "Kartupeļi", "Makaroni", "Augļi"],
+    "answer": "Kartupeļi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": ["Kuru produktu Kokosu salas iedzīvotāji gandrīz need?"],
+    "options": ["Dārzeņi", "Augļi", "Rīsi", "Gaļa"],
+    "answer": "Gaļa"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Ar ko Kokosu salas iedzīvotāji ēd visu ēdienu?",
+    "options": ["Augļi", "Dārzeņi", "Maize", "Siers"],
+    "answer": "Maize"
+  },
+  {
+    "country": "kokosi",
+    "topic": "virtuve",
+    "question": "Kuru no dzerieniem Kokosu salās parasti nepiedavā restorānos?",
+    "options": ["Sula", "Vietējais alus", "Zāļa tēja", "Vietēja kafija"],
+    "answer": "Vietēja kafija"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kāds ir oficiālais Kokosu salas karogs?",
+    "image": "1.<img src=13.jpeg width=150px height=100px> 2.<img src=14.jpeg width=150px height=100px> 3.<img src=15.jpeg width=150px height=100px> 4.<img src=16.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "1."
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kāds ir neoficiālais Kokosu salas karogs?",
+    "image": "1.<img src=17.jpeg width=150px height=100px> 2.<img src=18.jpeg width=150px height=100px> 3.<img src=19.jpeg width=150px height=100px> 4.<img src=20.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "3."
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Ko nozīme pusmēness Kokosu salas neoficiālajā karogā?",
+    "options": ["Cerība", "Brīvība", "Ticība", "Sapņošana"],
+    "answer": "Ticība"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Ko nozīme kokosriekstu palma Kokosu salas neoficiālajā karogā?",
+    "options": ["Dzimteni", "Mūžigu darbu", "Varonību", "Brīnumus"],
+    "answer": "Mūžīgu darbu"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kad svin Austrālijas nacionālo dienu Kokosu salās?",
+    "options": ["26. martā", "26. jūlijā", "26. augustā", "26.janvārī"],
+    "answer": "26. janvārī"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Cik bieži lido līdmašīnas no un uz Kokosu salām?",
+    "options": ["Dažas reizes dienā", "Dažas reizes nedēļā", "Dažas reizes mēnesī", "Kokosu salās nav lidostas"],
+    "answer": "Dažas reizes nedēļā"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Ko no suvenīriem var atrast Kokosu salās?",
+    "options": ["Žāvētie kokosrieksti", "Koku amatniecība", "Kokosriekstu amatniecība", "Koraļļu rifi"],
+    "answer": "Kokosriekstu amatniecība"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "No kuras valsts var aizlidot uz Kokosu salām?",
+    "options": ["Austrālija", "Kanāda", "Japāna", "Amerikas Savienotas valstis"],
+    "answer": "Austrālija"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Ko piedava nirējiem ieraudzīt ūdenī pie Kokosu salas nacionāla parka?",
+    "options": ["Nogrimušo kuģi", "Koraļļu rifu", "Jūras dzīvniekus", "Jūras alas"],
+    "answer": "Nogrimušo kuģi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "kurort",
+    "question": "Kurā Kokosu salas salā ekskursijas laikā var redzēt vecus jūras bruņurupučus, sikspārņus, tropiskos putnus un tauriņus?",
+    "options": ["Vestailends", "Galvenā sala", "Ziemeļkīlingu sala", "Prizon sala"],
+    "answer": "Prizon sala"
+  }
+]

@@ -1,0 +1,35 @@
+body{
+  background-image: url("earth.jpeg");
+}
+button{
+  border:none;
+  padding: 15px 32px;
+  font-size: 20px;
+  cursor: pointer;
+}
+.column{
+  float: left;
+  width: 50%;
+}
+#viss{
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+#vis{
+  margin-right: auto;
+  margin-left:auto;
+  display:block;
+  width:20%;
+}
+img{
+  width:670px;
+  height:670px;
+  margin-left: auto;
+  margin-right:auto;
+  display: block;
+}
+h2{
+  text-align: center;
+  color: red;
+}

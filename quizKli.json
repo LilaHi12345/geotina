@@ -1,0 +1,247 @@
+[
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kuru derīgo izrakteņi var atrast tikai Austrālijā?",
+    "options": ["Bezkrāsainie dimanti", "Rozā dimanti", "Baltie dimanti", "Violetie dimanti"],
+    "answer": "Rozā dimanti"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds klimats ir Austrālijas ziemeļos?",
+    "options": ["Tropu", "Subtropu", "Ekvatoriālais", "Subekvatoriālais"],
+    "answer": "Subtropu"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds ir klimats Tasmānijas salā?",
+    "options": ["Tropu", "Mērenais", "Subtropu","Ekvatoriālais"],
+    "answer": "Mērenais"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds ir reljefs Austraļijā?",
+    "options": ["Tuksneši un līdzenumi", "Tuksneši un kalni", "Līdzenumi un kalni", "Kalni un augstienes"],
+    "answer": "Tuksneši un līdzenumi"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāda bija augstākā fiksēta temperatūra Austrālijā?",
+    "options": ["56°C", "59°C", "53°C", "61°C"],
+    "answer": "53°C"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāds ir Kokosu salas klimats?",
+    "options": ["Subtropu", "Subekvatoriālais", "Ekvatoriālais", "Tropu"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāds ir videjais nokrišņu daudzums ir Kokosu salās?",
+    "options": ["3000mm", "2500mm", "2000mm", "3500mm"],
+    "answer": "2500mm"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kad ir lietus sezons Kokosu salās?",
+    "options": ["Marts - Septembris", "Novembris - Decembris", "Decembris-Jūnijs", "Oktobris-Aprīlis"],
+    "answer": "Oktobris-Aprīlis"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Kāda ir videja temperatūra Kokosu salās?",
+    "options": ["15-24", "27-32", "20-27", "21-23"],
+    "answer": "27-32"
+  },
+  {
+    "country": "kokosi",
+    "topic": "klimat",
+    "question": "Cik augsta ir visaugstākā vieta Kokosu salās?",
+    "options": ["26 metri", "17 metri", "5 metri", "13 metri"],
+    "answer": "5 metri"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāda viedēja temperatūra ir Dominikānā?",
+    "options": ["29","31","33","35"],
+    "answer": "33"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kurš mēnesis ir viskarrstākais Dominikānā?",
+    "options": ["Oktobris", "Maijs", "Marts", "Augusts"],
+    "answer": "Augusts"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kādā temperatūra Dominikānā tiek uzskatīta par aukstu?",
+    "options": ["25-27","29-30","22-24","30-31"],
+    "answer": "29-30"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāds ir Dominikānas reljefs?",
+    "options": ["Kalnu", "Līdzenumu","Augstieņu","Mežu"],
+    "answer": "Kalnu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāpēc sāļais ezers ezers Enrikio tiek uzskatīts par kuriozu Dominikānā?",
+    "options": ["Mazākais sāļais ezers pasaulē", "Lielākais sāļais ezers pasaulē", "Dzīļākais sāļais ezers pasaulē","Vissālākais ezers pasaulē"],
+    "answer": "Lielākais sāļais ezers pasaulē"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Ar ko atšķiras Kambodžas Lielā ezera upe no visām parējām?",
+    "options": ["Visšaurākā upe pasaulē", "Visplātākā upe pasaul", "Plūst divos virzienos", "Upes sākumpunkts ir ezer"],
+    "answer": "Plūst divos virzienos"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kāds ir Kambodžas klimats?",
+    "options": ["Tropu", "Subtropu", "Ekvatoriālais", "Subekvatoriālais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kad Kambodžā ir lietus sezons?",
+    "options": ["Augusts-Novembris", "Oktobris-Februāris", "Mart-Jūlijs", "Maijs-Oktobris"],
+    "answer": "Maijs-Oktobris"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Ap cik % no gada nokrišņiem izkrīt lietus sezonā Kambodžā?",
+    "options": ["95%", "80%", "76%", "56%"],
+    "answer": "80%"
+  },
+  {
+    "country": "kambodza",
+    "topic": "klimat",
+    "question": "Kāds ir karstākais mēnesis Kambodžā?",
+    "options": ["Maijs", "Oktobris", "Aprīlis", "Augusts"],
+    "answer": "Aprīlis"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kāda ir vidēja temperatūrā Kubā?",
+    "options": ["26-29","28-30","23-26","24-28"],
+    "answer": "23-26"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kādā klimatu joslā atrodas Kuba?",
+    "options": ["Subtropu","Tropu", "Mērenais","Subekvatoriālais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kad ir sausā sezona Kubā?",
+    "options": ["Maijs-Septembris","Oktobris-Marts","Novembris-Maijs","Septembris-Aprīlis"],
+    "answer": "Septembris-Aprīlis"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kad ir lietus sezona Kubā?",
+    "options": ["Maijs-Septembris","Oktobris-Marts","Novembris-Maijs","Septembris-Aprīlis"],
+    "answer": "Maijs-Septembris"
+  },
+  {
+    "country": "kuba",
+    "topic": "klimat",
+    "question": "Kas aizņem lielāko daļu no Kubas teritorijas?",
+    "options": ["Ezeri", "Meži","Līdzenumi","Augstienes"],
+    "answer": "Līdzenumi"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kurā Laosa daļā ir vairāk kalnu un augstieņu?",
+    "options": ["Dividos", "Austrumos", "Ziemeļos", "Rietumos"],
+    "answer": "Ziemeļos"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kāds ir Laosa klimats?",
+    "options": ["Subekvatoriālais", "Tropu", "Mērenais", "Subtropu"],
+    "answer": "Subekvatoriālais"
+  },
+  {
+    "country":"laosa",
+    "topic":"klimat",
+    "question": "Kad ir vasara Laosā?",
+    "options": ["Marts-Jūlijs", "Septembris-Maijs", "Novembris-Marts", "Maijs-Oktobris"],
+    "answer": "Maijs-Oktobris"
+  },
+  {
+    "country": "laosa",
+    "topic": "klimat",
+    "question": "Kāda ir vidēja temperatūra Laosā ziemā?",
+    "options": ["15-22", "17-20", "10-16", "23-27"],
+    "answer": "15-22"
+  },
+  {
+    "country": "laosa",
+    "topic": "klimat",
+    "question": "Kāda ir lielākā upe Laosā?",
+    "options": ["Kadinga", "Mekonga", "Bangfai", "Banghianga"],
+    "answer": "Mekonga"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimat",
+    "question": "Cik vulkānu ir Meksikā?",
+    "options": ["43","57","48","62"],
+    "answer": "43"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimat",
+    "question": "Kas aizņem lielāko daļu no Meksikas teritorijas?",
+    "options": ["Meksikas augstienes","Tuksneši","Meži","Meksikas kalni"],
+    "answer": "Meksikas augstienes"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimat",
+    "question": "Kāds ir klimats Meksikas ziemeļos?",
+    "options": ["Tropu","Subtropu","Mērenais","Subekvatoriālais"],
+    "answer": "Subtropu"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimat",
+    "question": "Kāds ir klimats Meksikas dienvidos?",
+    "options": ["Subtropu","Subekvatoriālais","Tropu","Mērenais"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "meksika",
+    "topic": "klimat",
+    "question": "Kāda vidēja temperatūra Meksikā?",
+    "options": ["25-27","30-32","26-29","27-30"],
+    "answer": "27-30"
+  }
+]

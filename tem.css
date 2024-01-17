@@ -1,0 +1,26 @@
+body{
+  background-image:url("udens.jpeg")
+}
+h1{
+  color:#ff3300;
+  text-align:center;
+}
+h2{
+  color:black;
+  text-align:center;
+}
+.column{
+  float: left;
+  width: 33%;
+}
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+button{
+  border:none;
+  padding: 10px 20px;
+  font-size: 20px;
+  cursor: pointer;
+}

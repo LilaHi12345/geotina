@@ -1,0 +1,240 @@
+[
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kur atrodas Dominikānas Republika?",
+    "options": ["Haiti salas austrumu daļā", "Haiti salas rietumu daļā", "Meksikas līcī","Ziemeļamerikā"],
+    "answer": "Haiti salas austrumu daļā"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kāda ir Dominikānas galvaspilsēta?",
+    "options": ["Samana", "Santiago","La Romana", "Santodomingo"],
+    "answer": "Santodomingo"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kas apskalo Dominikānu ziemeļos?",
+    "options": ["Klusais okeāns", "Atlantijas okeāns", "Karību jūra", "Mona šaurums"],
+    "answer": "Atlantijas okeāns"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kas apskalo Dominikānu dienvidos?",
+    "options": ["Klusais okeāns","Monas šaurums", "Meksikas līcis", "Karību jūra"],
+    "answer": "Karību jūra"
+  },
+  {
+    "country": "dominikan",
+    "topic": "geo",
+    "question": "Kura pilsēta ir vissenākā Dominikānā?",
+    "options": ["Santodomingo", "Santiago", "Punta Cana","Nagva"],
+    "answer": "Santodomingo"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Cik iedzīvotāju ir Dominikānā?",
+    "options": ["15 miljoni","20 miljoni","11 miljoni","13 miljoni"],
+    "answer": "11 miljoni"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kāda ir Dominikānas nacionālā valoda?",
+    "options": ["Angļu valoda","Krievu valoda","Portugāļu valoda", "Spāņu valoda"],
+    "answer": "Spāņu valoda"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kā savadāk var nosaukt Dominikānas iedzīvotājus?",
+    "options": ["Quisqueyanos", "Estadounidenses","Hispano","Dominicanos"],
+    "answer": "Quisqueyanos"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kura reliģija ir visizplatītākā Dominikānā?",
+    "options": ["Pareizticība", "Katolicisms", "Budisms", "Islams"],
+    "answer": "Katolicisms"
+  },
+  {
+    "country": "dominikan",
+    "topic": "iedz",
+    "question": "Kādas krāsas patīk valkāt Dominikānas iedzīvotājiem?",
+    "options": ["Košas krāsas", "Pasteļu krāsas", "Gaišas krāsas", "Melns un balts"],
+    "answer": "Košas krāsas"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāda viedēja temperatūra ir Dominikānā?",
+    "options": ["29","31","33","35"],
+    "answer": "33"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kurš mēnesis ir viskarrstākais Dominikānā?",
+    "options": ["Oktobris", "Maijs", "Marts", "Augusts"],
+    "answer": "Augusts"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kādā temperatūra Dominikānā tiek uzskatīta par aukstu?",
+    "options": ["25-27","29-30","22-24","30-31"],
+    "answer": "29-30"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāds ir Dominikānas reljefs?",
+    "options": ["Kalnu", "Līdzenumu","Augstieņu","Mežu"],
+    "answer": "Kalnu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "klimat",
+    "question": "Kāpēc sāļais ezers ezers Enrikio tiek uzskatīts par kuriozu Dominikānā?",
+    "options": ["Mazākais sāļais ezers pasaulē", "Lielākais sāļais ezers pasaulē", "Dzīļākais sāļais ezers pasaulē","Vissālākais ezers pasaulē"],
+    "answer": "Lielākais sāļais ezers pasaulē"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Cik procenti no 8000 koku sugām ir satopami tikai Dominikānā?",
+    "options": ["10%","21%","37%","25%"],
+    "answer": "25%"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kuras zivs nav Dominikānas piekrastē?",
+    "options": ["Līdaka", "Lasis", "Haizivs", "Forele"],
+    "answer": "Haizivs"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kas turistus piesaista Dominikānā no janvāra līdz martam?",
+    "options": ["Vistīrākā jūra","Nav tik kārsti", "Kuprvaļi pulcējas pārošanās rituāliem","Sākas sausais sezons"],
+    "answer": "Kuprvaļi pulcējas pārošanās rituāliem"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kas ir Cyclura ricordi?",
+    "options": ["Sarkano acu iguana", "Kokvarde", "Amerikāņu krokodils","Sarkanais flamingo"],
+    "answer": "Sarkano acu iguana"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kurš dzīvnieks Dominikānā ir indīgs, bet tam nav imunitātes pret savu indi?",
+    "options": ["Kastes medūza", "Zilogredzenu astoņkājis","Lodes zivs", "Solenodon Paradoxus"],
+    "answer": "Solenodon Paradoxus"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kāds dzeriens ir populārs Dominikānā?",
+    "options": ["Dominikānas kafija", "Brugal","Mamahuana","Rums"],
+    "answer": "Brugal"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kurš dzeriens Dominikānā netiek pasniegts ar ledu?",
+    "options": ["Rums", "Sula","Tēja", "Kafija"],
+    "answer": "Kafija"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kurām virtuvēm ir līdzīga Dominikāņu virtuve?",
+    "options": ["Afrikāņu un spāņu", "Spāņu un franču", "Spāņu un meksikāņu", "Afrikāņu un franču"],
+    "answer": "Afrikāņu un spāņu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kas ir raksturīgs Dominikāņu virtuvei?",
+    "options": ["Katrām ēdienām jābūt pēc iespējas saldākām", "Pikantu piparu izmantošana katrā ēdienā", "Kokosriekstu un zaļo banānu izmantošana", "Apelsīnu un Citronu plaša izmantošana"],
+    "answer": "Kokosriekstu un zaļo banānu izmantošana"
+  },
+  {
+    "country": "dominikan",
+    "topic": "virtuve",
+    "question": "Kā sauc ēdienu - zivis kokosriekstu mērcē - Dominikānā?",
+    "options": ["Asopao","Pescado con coco","Kangrejo gisado", "El moro"],
+    "answer": "Pescado con coco"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko nozīme zilā krāsa Dominikānas karogā?",
+    "options": ["Stiprumu","Ticību","Ūdeni","Brīvību"],
+    "answer": "Brīvību"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko svin 26.janvārī Dominikānā?",
+    "options": ["Prezidenta dzimšanas dienu", "Jauno gadu", "Valsts neatkārības dienu", "Ģimenes dienu"],
+    "answer": "Prezidenta dzimšanas dienu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Kādi divi zari ir Dominikānas ģerbonī?",
+    "options": ["Divi palmas zari", "Ozolu un lauru zari", "Lauru un palmu zari", "Sandalkoku un ozolu zari"],
+    "answer": "Lauru un palmu zari"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Kad svin Dominikānas neatkarības dienu?",
+    "options": ["27. janvārī", "27. februārī", "26. janvārī","26. februārī"],
+    "answer": "27. februārī"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko nozīme trīs vārdi (ios, Patria, Libertad) Dominikānas ģerbonī?",
+    "options": ["Ģimene, dzimtene, brīvība", "Brīvība, Dievs, ģimene","Dievs, dzimtene, brīvība","Dievs, dzimtene, draugi"],
+    "answer": "Dievs, dzimtene, brīvība"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Uz cik minūšu kāvēšana tiek uzskatīta par normu Dominikānā?",
+    "options": ["15 minūtes", "5 minūte", "30 minūtes", "25 minūtes"],
+    "answer": "15 minūtes"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Kādu dabas resursu var iegūt tikai Dominikānā?",
+    "options": ["Dzintars", "Rozais dimants", "Malka", "Larimar"],
+    "answer": "Larimar"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Kāda pazīstama piekraste atrodas Dominikānā?",
+    "options": ["Piekraste ar melno smilti", "Dzintāru piekraste", "Piekraste ar baltāko smilti pasaulē", "Pērļu piekraste"],
+    "answer": "Dzintāru piekraste"
+  },
+  {
+    "country": "dominikan",
+    "topic": "kurort",
+    "question": "Cik augsts ir Salto de Aguas Blancas ūdenskritums Dominikānā?",
+    "options": ["190 metri", "45 metri", "220 metri", "83 metri"],
+    "answer": "83 metri"
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kāds ir Austrālijas nacionālais dzīvnieks?",
+    "options": ["Kāmis", "Ķengurs", "Jūras krupis", "Koala"],
+    "answer": "Ķengurs"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Ko simbolizē 6 zvaigznes Austrālijas karogā?",
+    "options": ["6 reliģijas", "6 jūras", "6 štati", "6 augstākie kalni"],
+    "answer": "6 štati"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kad svin dāvanas dienu austrālijā?",
+    "options": ["26. decembrī", "20. decembrī", "24. decembrī", "27. decembrī"],
+    "answer": "26. decembrī"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kurā Austrālijas daļā svin piknika dienu pirmā augusta pirmdienā?",
+    "options": ["Austrumu daļā", "Rietumu daļā", "Dienvidu daļā", "Ziemeļu daļā"],
+    "answer": "Ziemeļu daļā"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kādas ir Austrālijas nacionālas krāsas?",
+    "options": ["Zaļš un sarkans", "Sarkans un zelts", "Zaļš un zelts", "Dzeltens un zaļš"],
+    "answer": "Zaļš un zelts"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kāds ir oficiālais Kokosu salas karogs?",
+    "image": "1.<img src=13.jpeg width=150px height=100px> 2.<img src=14.jpeg width=150px height=100px> 3.<img src=15.jpeg width=150px height=100px> 4.<img src=16.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "1."
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kāds ir neoficiālais Kokosu salas karogs?",
+    "image": "1.<img src=17.jpeg width=150px height=100px> 2.<img src=18.jpeg width=150px height=100px> 3.<img src=19.jpeg width=150px height=100px> 4.<img src=20.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "3."
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Ko nozīme pusmēness Kokosu salas neoficiālajā karogā?",
+    "options": ["Cerība", "Brīvība", "Ticība", "Sapņošana"],
+    "answer": "Ticība"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Ko nozīme kokosriekstu palma Kokosu salas neoficiālajā karogā?",
+    "options": ["Dzimteni", "Mūžigu darbu", "Varonību", "Brīnumus"],
+    "answer": "Mūžīgu darbu"
+  },
+  {
+    "country": "kokosi",
+    "topic": "simbol",
+    "question": "Kad svin Austrālijas nacionālo dienu Kokosu salās?",
+    "options": ["26. martā", "26. jūlijā", "26. augustā", "26.janvārī"],
+    "answer": "26. janvārī"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko nozīme zilā krāsa Dominikānas karogā?",
+    "options": ["Stiprumu","Ticību","Ūdeni","Brīvību"],
+    "answer": "Brīvību"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko svin 26.janvārī Dominikānā?",
+    "options": ["Prezidenta dzimšanas dienu", "Jauno gadu", "Valsts neatkārības dienu", "Ģimenes dienu"],
+    "answer": "Prezidenta dzimšanas dienu"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Kādi divi zari ir Dominikānas ģerbonī?",
+    "options": ["Divi palmas zari", "Ozolu un lauru zari", "Lauru un palmu zari", "Sandalkoku un ozolu zari"],
+    "answer": "Lauru un palmu zari"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Kad svin Dominikānas neatkarības dienu?",
+    "options": ["27. janvārī", "27. februārī", "26. janvārī","26. februārī"],
+    "answer": "27. februārī"
+  },
+  {
+    "country": "dominikan",
+    "topic": "simbol",
+    "question": "Ko nozīme trīs vārdi (ios, Patria, Libertad) Dominikānas ģerbonī?",
+    "options": ["Ģimene, dzimtene, brīvība", "Brīvība, Dievs, ģimene","Dievs, dzimtene, brīvība","Dievs, dzimtene, draugi"],
+    "answer": "Dievs, dzimtene, brīvība"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kādas ir galvenās Kambodžas vērtības?",
+    "options": ["Brīvība, nācija, valoda", "Nācija, varonība, cerība", "Nācija, reliģija, ķēniņš", "Reliģija, brīvība, cerība"],
+    "answer": "Nācija, reliģija, ķēniņš"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kurš ir Kambodžas karogs?",
+    "image": "1.<img src=5.jpeg width=150px height=100px> 2.<img src=6.jpeg width=150px height=100px> 3.<img src=7.jpeg width=150px height=100px> 4.<img src=8.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "4."
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kurš ir Kambodžas ģerbonis?",
+    "image": "1.<img src=9.jpeg width=100px height=100px> 2.<img src=10.jpeg width=100px height=100px> 3.<img src=11.jpeg width=100px height=100px> 4.<img src=12.jpeg width=100px  height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "2."
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Kāda ir nozīme zilai krāsai Kambodžas karogā?",
+    "options": ["Debesis un tīrība", "Brīvība un jūra", "Cerība un ūden", "Pārticība un varonība"],
+    "answer": "Debesis un tīrība"
+  },
+  {
+    "country": "kambodza",
+    "topic": "simbol",
+    "question": "Ko nozīme sarkanā krāsa Kambodžas karogā?",
+    "options": ["Asinis un varonību", "Reliģiju un cerību", "Asinis un drosmi", "Drosmi un tautu"],
+    "answer": "Drosmi un tautu"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kad svin Kubas neatkārības dienu?",
+    "options": ["10. jūlijā", "10. oktobrī","10. janvārī", "10. aprīlī"],
+    "answer": "10. oktobrī"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kāds augs ir Kubas ģerbonī?",
+    "options": ["Karaliskā palma", "Melnais koks", "Citronu koks", "Sandalkoks"],
+    "answer": "Karaliskā palma"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "No kura gada Santjago de Kubā svin Kubas festivālu?",
+    "options": ["1900.","1825.","1833","1894."],
+    "answer": "1833."
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Kāds ir Kubas nacionālais putns?",
+    "options": ["Karaliskā pīle","Kubas trogons","Kanādas dzērve","Sarkanais flamingo"],
+    "answer": "Kubas trogons"
+  },
+  {
+    "country": "kuba",
+    "topic": "simbol",
+    "question": "Ko svin 4. februārī Kubā?",
+    "options": ["Greipfrūtu savākšanas svētki","Gaismas festivāls", "Nacionālā sacelšanās diena", "Starptautiskais Kubas cigāru festivāls"],
+    "answer": "Greipfrūtu savākšanas svētki"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kad svin Laosas neatkārības dienu?",
+    "options": ["1. aprīlī", "1. novembrī", "1. augustā", "1. jūnijā"],
+    "answer": "1. novembrī"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kas nozīmē zila krāsa Laosas karogā?",
+    "options": ["Cērību", "Brīvību", "Pārticību", "Debesis"],
+    "answer": "Pārticību"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kurš ir Laosas karogs?",
+    "image": "1.<img src=4.jpeg width=150px height=100px> 2.<img src=2.jpeg width=150px height=100px>   3.<img src=1.jpeg width=150px height=100px> 4.<img src=3.jpeg width=150px height=100px>",
+    "options": ["1.", "2.", "3.", "4."],
+    "answer": "1."
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Ko nozīmē sarkana krāsa Laosas karogā?",
+    "options": ["Mīlestību", "Asinis", "Stiprumu", "Sauli"],
+    "answer": "Asinis"
+  },
+  {
+    "country": "laosa",
+    "topic": "simbol",
+    "question": "Kāds ir Laosas nacionālais zieds?",
+    "options": ["Kukurūza", "Karaliskā palma", "Plumērija", "Orhideja"],
+    "answer": "Plumērija"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kāds ir nacionālais putns Meksikā?",
+    "options": ["Lielais piekūns", "Zeltā ērglis", "Emu", "Lauku piekūns"],
+    "answer": "Zeltā ērglis"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kad svin Meksikas neatkarības dienu?",
+    "options": ["16. septembrī", "16. augustā", "16. martā", "16. jūnijā"],
+    "answer": "16. septembrī"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kādas krāsas tauriņi pēc Meksikas iedzīvotāju domām nesa cērību?",
+    "options": ["baltie", "zilie", "sarkanie", "zaļie"],
+    "answer": "zaļie"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Ko svin 12. decembrī?",
+    "options": ["Konstitūcijas diena", "Gvadalupes Dievmātes diena", "Revolūcijas diena", "Mirušo diena"],
+    "answer": "Gvadalupes Dievmātes diena"
+  },
+  {
+    "country": "meksika",
+    "topic": "simbol",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=ica.jpeg width=100px height=100px>",
+    "options": ["Čičenica", "Maču Pikču", "Petra", "Gīzas piramīda"],
+    "answer": "Čičenica"
+  }
+]

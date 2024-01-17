@@ -1,0 +1,251 @@
+[
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kāda ir Austrālijas galvaspilsēta?",
+    "options": ["Sidneja", "Kanbera", "Brisbane", "Melbourne"],
+    "answer": "Kanbera"
+  },
+  { 
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kuri okeāni apskalo Austrāliju?",
+    "options": ["Atlantijas un Indijas okeāns", "Ziemeļledus un Klusais okeāns", "Indijas un Klusais okeāns", "Atlantijas un Klusais okeāns"],
+    "answer": "Indijas un Klusais okeāns"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kurā Zemes pusē Austrāliju apskalo Lielais Austrālijas līcis?",
+    "options": ["Dienvidos","Austrumos", "Rietumos", "Ziemeļos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Kuras valsts platība ir gandrīz vienāda ar Austrālijas platību?",
+    "options": ["ASV", "Ķīna", "Vācija", "ASV bez Aļaskas"],
+    "answer": "ASV bez Aļaskas"
+  },
+  {
+    "country": "australia",
+    "topic": "geo",
+    "question": "Ar kuru jūru Austrālija netiek apskalota?",
+    "options": ["Arafuru jūra", "Timoras jūra", "Koraļļu jūra", "Kilikijas jūra"],
+    "answer": "Kilikijas jūra"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kuru derīgo izrakteņi var atrast tikai Austrālijā?",
+    "options": ["Bezkrāsainie dimanti", "Rozā dimanti", "Baltie dimanti", "Violetie dimanti"],
+    "answer": "Rozā dimanti"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds klimats ir Austrālijas ziemeļos?",
+    "options": ["Tropu", "Subtropu", "Ekvatoriālais", "Subekvatoriālais"],
+    "answer": "Subtropu"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds ir klimats Tasmānijas salā?",
+    "options": ["Tropu", "Mērenais", "Subtropu","Ekvatoriālais"],
+    "answer": "Mērenais"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāds ir reljefs Austraļijā?",
+    "options": ["Tuksneši un līdzenumi", "Tuksneši un kalni", "Līdzenumi un kalni", "Kalni un augstienes"],
+    "answer": "Tuksneši un līdzenumi"
+  },
+  {
+    "country": "australija",
+    "topic": "klimat",
+    "question": "Kāda bija augstākā fiksēta temperatūra Austrālijā?",
+    "options": ["56°C", "59°C", "53°C", "61°C"],
+    "answer": "53°C"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kādu dzērienu gatavo Austrālijas ziemeļos?",
+    "options": ["Austrālijas baltais vīns", "Austrālijas baltais rums", "Austrālijas tumšais alus", "Austrālijas melnais rums"],
+    "ansswer": "Austrālijas melnais rums"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kurš nacionālais ēdiens tiek gatavots dažādi katrā Austrālijas reģionā?",
+    "options": ["Pavlova", "Anaboroo", "Dalīties", "Bitruts"],
+    "answer": "Dalīties"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=lamingtons.jpeg width=100px height=100px>",
+    "options": ["Pavlova", "Lamingtons", "Pasaku maizīte", "Anzac cepumi"],
+    "answer": "Lamingtons"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kurš zivs tiek uzskatīts par Austrālijas nacionālo ēdienu?",
+    "options": ["Barakuda", "Lasis", "Karūsa", "Garspuru mako haizivs"],
+    "answer": "Barakuda"
+  },
+  {
+    "country": "australija",
+    "topic": "virtuve",
+    "question": "Kādu noteikumu par ēdienu ievēro austrālieši?",
+    "options": ["Katru ēdienkārtu jāpabeidz ar desertu", "Katram ēdienam jābūt pikantam un saldam", "Katram ēdienam jābūt oriģinālam", "Katru ēdienkārti jāsāk ar saldo ēdienu"],
+    "answer": "Ēdienam jābūt oriģinālam"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Cik daudz iedzīvotāju dzīvo Austrālijā?",
+    "options": ["25 miljoni", "20 miljoni", "18 miljoni", "22 miljoni"],
+    "answer": "22 miljoni"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāda ir nacionālā valoda Austrālijā?",
+    "options": ["Indiāņu", "Māori", "Zviedru", "Angļu"],
+    "answer": "Angļu"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāda ir visizplatītākā reliģija Austrālijā?",
+    "options": ["Kristietība", "Islam", "Hinduism", "Judaism"],
+    "answer": "Kristietība"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Kāds ir vidējais dzīves ilgums vīriešiem Austrālijā?",
+    "options": ["75 gadi", "79 gadi", "84 gadi", "70 gadi"],
+    "answer": "79 gadi"
+  },
+  {
+    "country": "australija",
+    "topic": "iedz",
+    "question": "Cik daudz procentu no iedzīvotājiem Austrālijā dzīvo pilsētās?",
+    "options": ["49%", "63%", "78%", "88%"],
+    "answer": "88%"
+  }, 
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kāds ir Austrālijas nacionālais dzīvnieks?",
+    "options": ["Kāmis", "Ķengurs", "Jūras krupis", "Koala"],
+    "answer": "Ķengurs"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Ko simbolizē 6 zvaigznes Austrālijas karogā?",
+    "options": ["6 reliģijas", "6 jūras", "6 štati", "6 augstākie kalni"],
+    "answer": "6 štati"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kad svin dāvanas dienu austrālijā?",
+    "options": ["26. decembrī", "20. decembrī", "24. decembrī", "27. decembrī"],
+    "answer": "26. decembrī"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kurā Austrālijas daļā svin piknika dienu pirmā augusta pirmdienā?",
+    "options": ["Austrumu daļā", "Rietumu daļā", "Dienvidu daļā", "Ziemeļu daļā"],
+    "answer": "Ziemeļu daļā"
+  },
+  {
+    "country": "australija",
+    "topic": "simbol",
+    "question": "Kādas ir Austrālijas nacionālas krāsas?",
+    "options": ["Zaļš un sarkans", "Sarkans un zelts", "Zaļš un zelts", "Dzeltens un zaļš"],
+    "answer": "Zaļš un zelts"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Austrālijas ziemeļos?",
+    "options": ["Skujkoku", "Tropu", "Lapkoku", "Jauktie"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Austrālijas dienvidos?",
+    "options": ["Eikvaliptu", "Tropu", "Jauktie", "Lapkoku"],
+    "answer": "Eikvaliptu"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Cik ķenguru sugas dzīvo Austrālijā?",
+    "options": ["36", "43", "50", "69"],
+    "answer": "50"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Cik procentu no Austrālijas dzīvniekiem dzīvo tikai Austrālijā?",
+    "options": ["90%", "83%", "75%", "61%"],
+    "answer": "90%"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=velns.jpeg width=100px height=100px>",
+    "options": ["Vombats", "Apkakles agāma", "Ehidna", "Tasmanijas velns"],
+    "answer": "Tasmanijas velns"
+  },
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Par ko visi tūristi tiek brīdināti, pirms viņi lido uz Austrāliju?",
+    "options": ["Ņemt līdzi sauļošanas krēmu", "Kukaiņi varētu būt visūr", "Stipru sauli", "Daudz indīgu čūsku un kukaiņu"],
+    "answer": "Daudz indīgu čūsku un kukaiņu"
+  },
+  {
+    "country": "australia",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=uluru.jpeg width=100px height=100px>",
+    "options": ["Koscjuško kalns", "Lielās Ūdensšķirtnes grēdas", "Uluru", "Viktorijas Alpi"],
+    "answer": "Uluru"
+  }, 
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=opera.jpeg width=100px height=100px>",
+    "options": ["Dārlingas osta", "Sidnejas Operas nams", "Sidnejas akvārijs", "Menlijas pludmale"],
+    "answer": "Sidnejas Operas nams"
+  },
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kura pilsēta bija pamatiedzīvotāju mājvieta?",
+    "options": ["Sidneja", "Melburna", "Adelaide", "Brisbena"],
+    "answer": "Brisbena"
+  },
+  {
+    "country": "australija",
+    "topic": "kurort",
+    "question": "Kāpēc turistus piesaista Lielais Barjerrifs?",
+    "options": ["Lielākais pasaulē", "Visdzīļākais pasaulē", "Lielākais Austrālijā", "Viskrāsainākais pasaulē"],
+    "answer": "Lielākais pasaulē"
+  }
+]

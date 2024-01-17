@@ -1,0 +1,257 @@
+[
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Austrālijas ziemeļos?",
+    "options": ["Skujkoku", "Tropu", "Lapkoku", "Jauktie"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Austrālijas dienvidos?",
+    "options": ["Eikvaliptu", "Tropu", "Jauktie", "Lapkoku"],
+    "answer": "Eikvaliptu"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Cik ķenguru sugas dzīvo Austrālijā?",
+    "options": ["36", "43", "50", "69"],
+    "answer": "50"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Cik procentu no Austrālijas dzīvniekiem dzīvo tikai Austrālijā?",
+    "options": ["90%", "83%", "75%", "61%"],
+    "answer": "90%"
+  },
+  {
+    "country": "australija",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=velns.jpeg width=100px height=100px>",
+    "options": ["Vombats", "Apkakles agāma", "Ehidna", "Tasmanijas velns"],
+    "answer": "Tasmanijas velns"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kuri dzīvnieki tika atvesti uz Kokosu salām, bet neizdzīvoja?",
+    "options": ["Zaķi", "Peles", "Lāči", "Tīģeri"],
+    "answer": "Zaķi"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kurš no Kokosu salas dzīvojošiem dzīvniekiem nedzīvo Ziemeļu salā?",
+    "options": ["Toki gekons", "Leopardgekons", "Sārtais strazds", "Melnā žurka"],
+    "answer": "Melnā žurka"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Apmēram cik zivju sugas bija reģistrēti pie Kokosu salām?",
+    "options": ["200", "100", "500", "780"],
+    "answer": "500"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kuras palmas sugas ir visizplatītākas Kokosu salās?",
+    "options": ["Kokosriekstu palmas", "Banānu palmas", "Mango palmas", "Ananāsu palmas"],
+    "answer": "Kokosriekstu palmas"
+  },
+  {
+    "country": "kokosi",
+    "topic": "daba",
+    "question": "Kurā gadā bija izveidots nacionālais parks Pulu Kīlings Kokosu salās?",
+    "options": ["1947.", "1973.", "1987.", "1995."],
+    "answer": "1995."
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Cik procenti no 8000 koku sugām ir satopami tikai Dominikānā?",
+    "options": ["10%","21%","37%","25%"],
+    "answer": "25%"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kuras zivs nav Dominikānas piekrastē?",
+    "options": ["Līdaka", "Lasis", "Haizivs", "Forele"],
+    "answer": "Haizivs"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kas turistus piesaista Dominikānā no janvāra līdz martam?",
+    "options": ["Vistīrākā jūra","Nav tik kārsti", "Kuprvaļi pulcējas pārošanās rituāliem","Sākas sausais sezons"],
+    "answer": "Kuprvaļi pulcējas pārošanās rituāliem"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kas ir Cyclura ricordi?",
+    "options": ["Sarkano acu iguana", "Kokvarde", "Amerikāņu krokodils","Sarkanais flamingo"],
+    "answer": "Sarkano acu iguana"
+  },
+  {
+    "country": "dominikan",
+    "topic": "daba",
+    "question": "Kurš dzīvnieks Dominikānā ir indīgs, bet tam nav imunitātes pret savu indi?",
+    "options": ["Kastes medūza", "Zilogredzenu astoņkājis","Lodes zivs", "Solenodon Paradoxus"],
+    "answer": "Solenodon Paradoxus"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kādi meži ir pārsvarā Kambodžas austrumu daļā?",
+    "options": ["Eikvaliptu", "Tropu", "Platlapju", "Skujkoku"],
+    "answer": "Tropu"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kāds ir viens no trim izplatītākiem kokiem Kambodžā?",
+    "options": ["Kokosriekstu palma", "Banānu palma", "Karaliskā palma", "Sarkanais koks"],
+    "answer": "Kokosriekstu palma"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Līdz cik metriem var izaugt koki Kambodžā?",
+    "options": ["290 metri", "570 metri", "310 metri", "400 metri"],
+    "answer": "400 metri"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kurš auglis ir karalis starp Kambodžas augļiem?",
+    "options": ["Banāni", "Dūrians", "Mango", "Džek-Fruit"],
+    "answer": "Dūrians"
+  },
+  {
+    "country": "kambodza",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=fikuss.jpeg width=100px height=100px>",
+    "options": ["Fikuss", "Vīģes koks", "Aglonēma", "Ananāss"],
+    "answer": "Fikuss"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik palmu sugas ir Kubā?",
+    "options": ["vairāk par 10", "vairāk par 30","vairāk par 50","vairāk par 70"],
+    "answer": "vairāk par 30"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik augu sugas ir sastopamas tikai Kubā?",
+    "options": ["4000", "1000","10000","7500"],
+    "answer": "4000"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik sikspārņu sugas ir Kubā?",
+    "options": ["15", "42", "86","23"],
+    "answer": "23"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik putnu sugas dzīvo Kubas piekrastē?",
+    "options": ["vairāk par 50", "vairāk par 100","vairāk par 300", "vairāk par 500"],
+    "answer": "vairāk par 300"
+  },
+  {
+    "country": "kuba",
+    "topic": "daba",
+    "question": "Cik sver vismazākais sikspārnis Kubā?",
+    "options": ["3 grami","10 grami", "6 grami", "15 grami"],
+    "answer": "3 grami"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kuru dzīvnieku Laosā uzskata par bigfoot senči?",
+    "options": ["Tibētas lācis", "Marmora kaķis", "Sarkanā panda", "Lielā panda"],
+    "answer": "Tibētas lācis"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kuru dzīvnieku sauc arī par ‘Musangu’ Laosā?",
+    "options": ["Sarkanā panda", "Palmu cauna", "Baltais tīģeris", "Orangutāns"],
+    "answer": "Palmu cauna"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kurā Laosas daļā var satikt vairāk ziloņus?",
+    "options": ["Ziemeļos", "Austrumos", "Rietumos","Dienvidos"],
+    "answer": "Dienvidos"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kurš dzīvnieks no veciem laikiem ir Laosas simbols?",
+    "options": ["Ķengurs", "Zilonis", "Sarkanā panda", "Tīģeris"],
+    "answer": "Zilonis"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kas ir redzams attēlā?",
+    "image": "<img src=panda.jpeg width=100px height=100px>",
+    "options": ["Baltā panda", "Palmu cauna", "Sarkana panda", "Lielā panda"],
+    "answer": "Sarkana panda"
+  },
+  {
+    "country": "laosa",
+    "topic": "daba",
+    "question": "Kura pilsēta bija Laosas galvaspilsēta 14.-20. gs.?",
+    "options": ["Vientiane", "Nong Khiaw", "Muang Ngoy", "Lūenphabāna"],
+    "answer": "Lūenphabāna"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Kas nozīme 'labuchin'?",
+    "options": ["Ūdenskrums","Vējapuķe","Debespuķe","Ugunskoks"],
+    "answer": "Ugunskoks"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Kāds augs visbiežāk sastopās Verakrusa apkārtnē?",
+    "options": ["Orhidejas","Kaktusi","Ugunskoki","Kukurūza"],
+    "answer": "Orhidejas"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Cik kaktusu sugu ir Sonoras tuksnesī?",
+    "options": ["220","320","120","420"],
+    "answer": "120"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "No kādas kaktusa sugas vajadzības gadījumā iegūst ūdeni?",
+    "options": ["Maguey", "Gobernadoras", "Pitahaya dulce", "Biznaga"],
+    "answer": "Biznaga"
+  },
+  {
+    "country": "meksika",
+    "topic": "daba",
+    "question": "Cik procentu no Meksikas kaktusa sugām var sastapt tikai Meksikā?",
+    "options": ["50%", "10%", "77%" , "83%"],
+    "answer": "77%"
+  }
+]
