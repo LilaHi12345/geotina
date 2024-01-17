@@ -6,7 +6,6 @@ function apstiprinajums() {
   document.getElementById('komanda2').innerHTML=komanda2;
 }
 
-
 // Initialize the current question index, score, high scores from local storage, quiz data, user name and selected option
 let currentQuestion = 0;
 let score = 0;
@@ -27,7 +26,6 @@ const loadQuestion = () => {
   document.getElementById("question").innerText = questionObj.question;
   if(questionObj.hasOwnProperty("image")){
     document.getElementById("question").innerHTML+="<br>"+questionObj.image;}
-
   for (let i = 0; i < 4; i++) {
     const btn = document.getElementById(`btn${i}`);
     btn.innerText = questionObj.options[i];
@@ -39,7 +37,6 @@ const loadQuestion = () => {
   document.getElementById("message").innerText = "";
   document.getElementById("next-btn").style.display = "none";
 };
-
 
 // Function to start the quiz, get the username and display the quiz container
 const startQuiz = () => {
