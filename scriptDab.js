@@ -116,10 +116,10 @@ for (let i = 0; i < 4; i++) {
       score++;
       document.getElementById("score").innerText = score;
       selectedOption.className = "option-btn correct";
-      document.getElementById("message").innerText = "Correct Answer!";
+      document.getElementById("message").innerText = "Pareizi!";
     } else {
       selectedOption.className = "option-btn wrong";
-      document.getElementById("message").innerText = "Correct Answer is " + quizDab[currentQuestion].answer;
+      document.getElementById("message").innerText = "Pareiza atbilde ir " + quizDab[currentQuestion].answer;
     }
     for (let j = 0; j < 4; j++) {
       document.getElementById(`btn${j}`).disabled = true;
