@@ -2,7 +2,7 @@
   {
     "country": "kokosi",
     "topic": "geo",
-    "question": "Kāda ir Kokosu salas galvaspilsēta?",
+    "question": "Kāds ir Kokosu salas centrs?",
     "options": ["Vestailenda", "Batama", "Pulo Cheplok", "Pulo Blan"],
     "answer": "Vestailenda"
   },
@@ -51,7 +51,7 @@
   {
     "country": "kokosi",
     "topic": "iedz",
-    "question": "Cik ir iedzīvotāju kokosu salās?",
+    "question": "Cik ir iedzīvotāju Kokosu salās?",
     "options": ["738", "320", "647", "544"],
     "answer": "544"
   },
@@ -108,7 +108,7 @@
     "country": "kokosi",
     "topic": "daba",
     "question": "Kuri dzīvnieki tika atvesti uz Kokosu salām, bet neizdzīvoja?",
-    "options": ["Zaķi", "Peles", "Lāči", "Tīģeri"],
+    "options": ["Zaķi", "Pēles", "Lāči", "Tīģeri"],
     "answer": "Zaķi"
   },
   {
