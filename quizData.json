@@ -74,7 +74,7 @@
     "topic": "virtuve",
     "question": "Kādu dzērienu gatavo Austrālijas ziemeļos?",
     "options": ["Austrālijas baltais vīns", "Austrālijas baltais rums", "Austrālijas tumšais alus", "Austrālijas melnais rums"],
-    "ansswer": "Austrālijas melnais rums"
+    "answer": "Austrālijas melnais rums"
   },
   {
     "country": "australija",
@@ -214,7 +214,7 @@
   {
     "country": "australija",
     "topic": "kurort",
-    "question": "Par ko visi tūristi tiek brīdināti, pirms viņi lido uz Austrāliju?",
+    "question": "Par ko neparasto visi tūristi tiek brīdināti, pirms viņi lido uz Austrāliju?",
     "options": ["Ņemt līdzi sauļošanas krēmu", "Kukaiņi varētu būt visūr", "Stipru sauli", "Daudz indīgu čūsku un kukaiņu"],
     "answer": "Daudz indīgu čūsku un kukaiņu"
   },
