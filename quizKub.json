@@ -73,8 +73,8 @@
     "country": "kuba",
     "topic": "daba",
     "question": "Cik palmu sugas ir Kubā?",
-    "options": ["vairāk par 10", "vairāk par 30","vairāk par 50","vairāk par 70"],
-    "answer": "vairāk par 30"
+    "options": ["10", "30","50","70"],
+    "answer": "30"
   },
   {
     "country": "kuba",
